@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.ORG.157.119176.10</dc:identifier>
+<dc:identifier2>32.ORG.32160.119176</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>L'ISLE RANDO CLUB </dc:title>
+
+<tif:ControlledVocabulary code="02.01.10.05.900">Associations (autres)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.02">Pas de publication</tif:ControlledVocabulary>
+<tif:Classification code="02.01.10">Organismes</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<dcterms:created>2015-02-11</dcterms:created>
+<dcterms:modified>2015-02-19</dcterms:modified>
+<dcterms:valid>2019-12-31</dcterms:valid>
+<dcterms:available>2014-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>0</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>L'ISLE RANDO CLUB </tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>OFFICE DE TOURISME </tif:Adr1>
+<tif:Adr2>Gascogne Toulousaine </tif:Adr2>
+<tif:Adr3>au bor du Lac </tif:Adr3>
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Gérad </tif:Prenom>
+<tif:Nom>DESPEYROUS </tif:Nom>
+<tif:Fonction xml:lang="fr">Président</tif:Fonction>
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)6 13 79 25 69</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tif:OI>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.PDTG.157.166934.10</dc:identifier>
+<dc:identifier2>32.SEJ.32160.166934</dc:identifier2>
+<dc:creator>OT-lIsle-Jourdain</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>DÉCOUVERTE DU CENTRE HISTORIQUE DE L'ISLE-JOURDAIN</dc:title>
+<dc:description>Aux portes de Toulouse, un Gers aux couleurs de la brique rouge !  L'Isle-Jourdain, une ville qui grandit aux abords de la capitale régionale : une véritable réussite d'un mariage du rural et de l'urbain ! Découvrez son histoire au travers de son patrimoine bâti et de ses ruelles ... Laissez-vous guider !</dc:description>
+<tif:ControlledVocabulary code="02.01.100.05">Publication web OT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.101.02">Départementale</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.13">Brochures groupes</tif:ControlledVocabulary>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.01.101">Type de diffusion</tif:Classification>
+<tif:Classification code="02.100.13">Brochures groupes</tif:Classification>
+<dcterms:created>2016-11-17</dcterms:created>
+<dcterms:modified>2016-12-06</dcterms:modified>
+<dcterms:valid>2017-12-31</dcterms:valid>
+<dcterms:available>2016-11-17</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1480978800</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.33" libelle="Réservation/Paiement en ligne" xml:lang="fr"><tif:RaisonSociale>Gers Tourisme en Gascogne</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Chemin Caillaouère</tif:Adr1>
+<tif:Adr2>BP 60178</tif:Adr2>
+
+<tif:CodePostal>32000</tif:CodePostal>
+<tif:Commune code="32013">Auch</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@gers-tourisme.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 61 79 00</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027466.jpg</URL>
+<tif:Nom xml:lang="fr">Musée Campanaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027461.jpg</URL>
+<tif:Nom xml:lang="fr">Pont Tourné</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/F MAUCO</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027459.jpg</URL>
+<tif:Nom xml:lang="fr">La Collègiale</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#7</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0090809.jpg</URL>
+<tif:Nom xml:lang="fr">Découverte du centre historique de l'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027464.jpg</URL>
+<tif:Nom xml:lang="fr">La Semeuse</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#6</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028518.jpg</URL>
+<tif:Nom xml:lang="fr">L'Echappée Belle</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027456.jpg</URL>
+<tif:Nom xml:lang="fr">Château de Panat</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/F MAUCO</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">Office de Tourisme</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.073688</tif:Longitude>
+<tif:Latitude>43.615762</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.09" libelle="Route (Nationale/Départementale)" xml:lang="fr"><tif:Nom xml:lang="fr">RN 124</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+<tif:ObservationDetailAcces xml:lang="fr">L'Isle-Jourdain est situé sur la RN 124 à seulement 30 km de Toulouse qu'elle relie par une 2 x 2 voies</tif:ObservationDetailAcces>
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.04" libelle="Gare SNCF" xml:lang="fr"><tif:Nom xml:lang="fr">Gare SNCF </tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">3.00</tif:Distance>
+<tif:ObservationDetailAcces xml:lang="fr">Gare SCNF à seulement 600m du centre ville de L'Isle-Jourdain et 3 km de la Ferme de Las Crabères</tif:ObservationDetailAcces>
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.07" libelle="Réservation" xml:lang="fr"><tif:Nom xml:lang="fr">Offre valable</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-10</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.07" libelle="Réservation" xml:lang="fr"><tif:Nom xml:lang="fr">Offre valable</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-11-17</tif:DateDebut>
+<tif:DateFin>2016-12-17</tif:DateFin>
+
+<tif:Jours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr"><tif:DetailClient type="10.02.26" libelle="Tout public" xml:lang="fr"><tif:Nom>Groupe</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>0</tif:NbPersMin>
+<tif:NbPersMax>0</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Français</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+<tif:ObservationModeReservation xml:lang="fr">Office de Tourisme</tif:ObservationModeReservation>
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.56" libelle="Tarif de base" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>30.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>30.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">(tarif/personne sur la base d'un groupe de 30 personnes).</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.56" libelle="Tarif de base" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>30.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>30.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">(tarif/personne sur la base d'un groupe de 30 personnes).</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="100.05.126" libelle="Programme" lang="FR">9h30 - Accueil à l'Office de Tourisme situé au bord du lac. Un grand parking vous permettra de garer votre véhicule facilement. 
+
+9h45 - Départ pour une visite guidée du centre historique de L'Isle-Jourdain : le pont Tourné (pont de briques du XIIIe siècle), le château de Panat, la fontaine (clin d&amp;#8217;œil aux éditions Larousse) et la place Gambetta. Arrivée sur la place de l'Hôtel de Ville, visite du musée européen d'Art Campanaire qui regroupe une collection de cloches, carillons, sonnailles grelots ... du monde entier. 
+
+12h30 déjeuner dans une étape gourmande au restaurant l'Echappée Belle. Au menu : entrée - choix entre 2 plats - dessert - vin et café non compris
+
+14h30 - retour place de l'Hôtel de Ville, face au musée, découvrez la maison de Claude Augé, créateur du Petit Larousse Illustré, du Nouveau Larousse Illustré et de nombreux autres dictionnaires. La maison, classée monument historique, possède de très beaux vitraux, dont celui de &quot;La Semeuse&quot;, emblème des éditions Larousse. Retour vers la base de loisirs de L'Isle-Jourdain, découvrerz la collègiale Saint-Martin et sa tour datant du XIVème siècle. En bas de la rue Lafayette, se dresse la statue Saint-Bertrand de Comminges.
+
+
+Fin de la journée vers 17h00.
+
+___________________________________
+
+&lt;b&gt;Réservez cette journée &quot;Découverte du centre-historique de l'Isle-Jourdain&quot; au prix de 30 euros/personne (prix sur la base d'un groupe de 30 personnes).&lt;/b&gt;
+
+Le prix comprend : 
+- les visites guidées, 
+- la restauration.  
+
+Le prix ne comprend pas : 
+- le transport, 
+- les assurances, 
+- les extras.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

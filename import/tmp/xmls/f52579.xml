@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.FORET.329.031982.10</dc:identifier>
+<dc:identifier2>32.PNA.32334.52579</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>FORET DE BOUCONNE</dc:title>
+
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.04">Informations partielles (Non Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.12.01.904">Forêt domaniale</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.11">TerraGers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.01.12">Patrimoine naturel</tif:Classification>
+<tif:Classification code="02.100.11">TerraGers</tif:Classification>
+<dcterms:created>2012-01-23</dcterms:created>
+<dcterms:modified>2017-01-23</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1327273200</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr"><tif:RaisonSociale>FORET DE BOUCONNE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>MAIRIE</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>mairiepujaudran@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.06" libelle="Téléphone /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 40 19</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>FORET DE BOUCONNE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 25 57</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.03" xml:lang="fr">Public</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0026894.jpg</URL>
+<tif:Nom xml:lang="fr">FORET</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0026952.jpg</URL>
+<tif:Nom xml:lang="fr">FORET</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0026953.jpg</URL>
+<tif:Nom xml:lang="fr">FORET</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0026954.jpg</URL>
+<tif:Nom xml:lang="fr">FORET</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0026955.jpg</URL>
+<tif:Nom xml:lang="fr">FORET</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0026895.jpg</URL>
+<tif:Nom xml:lang="fr">FORET</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">FORET DE BOUCONNE</tif:Nom>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.221944</tif:Longitude>
+<tif:Latitude>43.641389</tif:Latitude>
+<tif:Altitude>180</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+
+
+
+
+
+
+
+
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Cette imposante forêt domaniale est en partie située dans le Gers, sur la commune de Pujaudran. 
+Les principales essences de la forêt de Bouconne sont les chênes sessiles et pédonculés. Châtaigniers, charmes, tilleuls et frênes sont également présents en  mélange et donnent charme, variété des couleurs et gaité à cette magnifique forêt.
+Elle est peuplée de sangliers et de chevreuils. D'autres espèces plus discrètes s'y abritent également comme la genette, le renard et le blaireau. Avec un peu de chance vous pourrez admirer le vol du circaète Jean-Le-Blanc qui chasse en lisière.
+Par décret de 2009, 300 hectares de ce massif sont classés « forêt de protection ».
+
+La forêt de Bouconne accueille une base de loisirs, elle est parcourue  par de nombreux chemins à emprunter à pied ou en vélo tout terrain.
+N'attendez pas davantage, allez passer une sublime journée en Forêt de Bouconne, vos enfants vous en seront reconnaissants. </tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

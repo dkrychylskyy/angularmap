@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.AG_A.157.158036.10</dc:identifier>
+<dc:identifier2>32.DEG.32160.158036</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>AMAP DU CASTERON</dc:title>
+
+<tif:ControlledVocabulary code="02.01.02.01.905">Fruits, légumes et aromates</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.02.04">Groupements de producteur</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.11">TerraGers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.02">Dégustation</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.11">TerraGers</tif:Classification>
+<dcterms:created>2013-10-22</dcterms:created>
+<dcterms:modified>2017-03-21</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1469570400</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>amap32.touget-casteron@laposte.net</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>Les Granges du Gachat</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>amap32.touget-casteron@laposte.net</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.01" xml:lang="fr">Associatif</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0037173.jpg</URL>
+<tif:Nom xml:lang="fr">AMAP</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/S. Daudirac</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.900.02" libelle="Nationales" xml:lang="fr"><tif:Classement type="06.900.02.14" xml:lang="fr">AMAP</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">AMAP</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours>
+
+
+
+
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>19:30</tif:HoraireDebut>
+<tif:HoraireFin>20:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">AMAP DU CASTERON</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">A l'ancienne école Saint Germier.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>18:15</tif:HoraireDebut>
+<tif:HoraireFin>19:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+
+
+
+
+
+
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Les AMAP (Associations Pour le Maintien d'une Agriculture Paysanne) sont des associations créant un partenariat de proximité entre un groupe de consommateurs et une ou plusieurs fermes locales, permettant ainsi de développer une agriculture respectueuse de l'environnement, durable et de proximité. 
+
+L'AMAP DU CASTERON fait partie du réseau AMAP Midi-Pyrénées.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

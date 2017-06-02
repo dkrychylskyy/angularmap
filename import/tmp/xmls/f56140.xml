@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.SAL_P.157.017790.10</dc:identifier>
+<dc:identifier2>32.LOI.32160.56140</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>SALLE DU LAC</dc:title>
+
+<tif:ControlledVocabulary code="02.01.08.01.910">Salle</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.03">Informations complètes (Répondant)</tif:ControlledVocabulary>
+<tif:Classification code="02.01.08">Loisirs</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<dcterms:created>2011-03-23</dcterms:created>
+<dcterms:modified>2016-03-15</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1382565600</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>OFFICE DE TOURISME Intercommunal de la Gascogne Toulousaine</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.01" xml:lang="fr">Mademoiselle</tif:Civilite>
+<tif:Prenom>Karine</tif:Prenom>
+<tif:Nom>DUARTE</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousain@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 25 57</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>SALLE DU LAC</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Au bord du lac</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.mairie-islejourdain.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>accueil@mairie-islejourdain.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 32 50</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 26 84</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr"><tif:RaisonSociale>MAIRIE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Place de l'Hôtel de ville</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>Angèle</tif:Prenom>
+<tif:Nom>THULLIEZ</tif:Nom>
+<tif:Fonction xml:lang="fr">Adjointe au Maire</tif:Fonction>
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http//:www.mairie-islejourdain.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>accueil@mairie-islejourdain.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 32 50</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>accueil@mairie-islejourdain.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.03" xml:lang="fr">Public</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">SALLE DU LAC</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.07376</tif:Longitude>
+<tif:Latitude>43.617204</tif:Latitude>
+<tif:Altitude>61</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.08" libelle="Route" xml:lang="fr"><tif:Nom xml:lang="fr">RN 124</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.06" libelle="Gare Routière" xml:lang="fr"><tif:Nom xml:lang="fr">L ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.02" libelle="Autoroute" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">30.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.04" libelle="Gare SNCF" xml:lang="fr"><tif:Nom xml:lang="fr">L ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE/BLAGNAC</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">30.00</tif:Distance>
+
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">SALLE DU LAC</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Date dernier passage commission de sécurité : </tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+
+
+
+<tif:Tarifs>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.48" libelle="Location" xml:lang="fr"><tif:Nom xml:lang="fr">associations/particuliers de la commune</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>99.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>99.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.48" libelle="Location" xml:lang="fr"><tif:Nom xml:lang="fr">associations/particuliers pas de la commune</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>144.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>144.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.48" libelle="Location" xml:lang="fr"><tif:Nom xml:lang="fr">Noël et Nouvel an</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>164.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>164.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">100</tif:Capacite>
+<tif:Superficie unite="01.03.04.01" libelle="mètre carré" classee="N" xml:lang="fr">100.00</tif:Superficie>
+</tif:CapacitesGlobales>
+
+<tif:CapacitesPrestations><tif:DetailCapacitePrestation type="14.02.26" libelle="Salle de réception" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">110</tif:Capacite>
+
+<tif:DescriptionCapacitePrestation xml:lang="fr">Debout</tif:DescriptionCapacitePrestation>
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.27" libelle="Salle de réunion" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">100</tif:Capacite>
+
+
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.04" libelle="Banquet" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">70</tif:Capacite>
+
+<tif:DescriptionCapacitePrestation xml:lang="fr">Assises en long</tif:DescriptionCapacitePrestation>
+</tif:DetailCapacitePrestation>
+</tif:CapacitesPrestations>
+<tif:CapacitesUnites><tif:DetailCapaciteUnite type="14.03.02.32" libelle="Bâtiment" xml:lang="fr"><tif:TypeBatiment type="14.03.01.08" xml:lang="fr">Châteaux et demeures de prestige</tif:TypeBatiment>
+<tif:Nom xml:lang="fr">SALLE DES FETES  - SALLE DE REUNION</tif:Nom>
+
+<tif:Dispositions><tif:DetailDisposition type="14.03.03.02" libelle="En conseil d'administration" xml:lang="fr"><tif:CapaciteMoyenne>40</tif:CapaciteMoyenne>
+<tif:CapaciteMini>0</tif:CapaciteMini>
+<tif:CapaciteMaxi>0</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+<tif:DetailDisposition type="14.03.03.01" libelle="En U" xml:lang="fr"><tif:CapaciteMoyenne>70</tif:CapaciteMoyenne>
+<tif:CapaciteMini>0</tif:CapaciteMini>
+<tif:CapaciteMaxi>0</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+<tif:DetailDisposition type="14.03.03.04" libelle="En classe" xml:lang="fr"><tif:CapaciteMoyenne>70</tif:CapaciteMoyenne>
+<tif:CapaciteMini>0</tif:CapaciteMini>
+<tif:CapaciteMaxi>0</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+</tif:Dispositions>
+<tif:SurfaceMoyenne unite="01.03.04.01">100.00</tif:SurfaceMoyenne>
+<tif:SurfaceMini unite="01.03.04.01">0.00</tif:SurfaceMini>
+<tif:SurfaceMaxi unite="01.03.04.01">0.00</tif:SurfaceMaxi>
+<tif:NbUnites>1</tif:NbUnites>
+
+</tif:DetailCapaciteUnite>
+</tif:CapacitesUnites>
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.01" libelle="Accessibilités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.01.01" xml:lang="fr">Mobilité réduite</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.10" xml:lang="fr">Chauffage</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.102" xml:lang="fr">Salle des fêtes-spectacle</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:DescriptionPrestation xml:lang="fr">Gymnastique</tif:DescriptionPrestation>
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.64" xml:lang="fr">Parking</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+<tif:NbPrest unite="véhicules">30</tif:NbPrest>
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.127" xml:lang="fr">Toilettes</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.94" xml:lang="fr">Vestiaire</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.92" xml:lang="fr">Traiteur</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.39" xml:lang="fr">Information</tif:Prestation>
+<tif:Nom lang="">Espace extérieur aménagé (hors parking)</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.11" xml:lang="fr">Banquet</tif:Prestation>
+<tif:Nom lang="">Mariage</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.39" xml:lang="fr">Information</tif:Prestation>
+<tif:Nom lang="">Hébergement sur place</tif:Nom>
+
+
+<tif:Inclus>N</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:DescriptionPrestation xml:lang="fr">A l'Isle Jourdain (0,10km) possibilité loger 72 personnes.</tif:DescriptionPrestation>
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.02" libelle="Activités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.02.01" xml:lang="fr">Animation</tif:Prestation>
+<tif:Nom lang="">Danse</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.02.14" xml:lang="fr">Conférences</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Salle agréable, ensoleillée, baies vitrées, jardin privatif, située en bordure du lac.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

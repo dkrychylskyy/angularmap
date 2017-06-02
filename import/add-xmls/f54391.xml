@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><tif:DublinCore><dc:identifier>32.CHA.155.036348.25</dc:identifier>
+<dc:creator>42</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>NIDS D'EMBAZAC</dc:title>
+<dc:description>2 Belles chambres d'hôtes avec salle de douche, terrasse et Jakuzzi
+</dc:description>
+<tif:ControlledVocabulary code="02.01.04.01.01">Chambre d'hôtes</tif:ControlledVocabulary>
+<tif:Classification code="02.01.04">Hébergement locatif</tif:Classification>
+<dcterms:created>2012-03-26</dcterms:created>
+<dcterms:modified>2013-04-20</dcterms:modified>
+<dcterms:valid>2013-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>0</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>NIDS D'EMBAZAC</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Route de Goudourvielle</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.embazac.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>embazac@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 02 10</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Route de Goudourvielle</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+<tif:Prenom>Bénédicte et Jean-François</tif:Prenom>
+<tif:Nom>WAMBEKE</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>embazac@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 02 10</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.embazac.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028181.jpg</URL>
+<tif:Nom xml:lang="fr">Nichoir</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers / Asinerie d'Embazac</tif:Copyright>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028183.jpg</URL>
+<tif:Nom xml:lang="fr">Pigeonnier Iacouti</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers / Asinerie d'Embazac</tif:Copyright>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028177.jpg</URL>
+<tif:Nom xml:lang="fr">Nid 1</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers / Asinerie d'Embazac</tif:Copyright>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028176.jpg</URL>
+<tif:Nom xml:lang="fr">Nid 2</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>collection tourisme gers / Asinerie d'Embzac</tif:Copyright>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028173.jpg</URL>
+<tif:Nom xml:lang="fr">Calou</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers / Asinerie d'Embazac</tif:Copyright>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028178.jpg</URL>
+<tif:Nom xml:lang="fr">Pigeonnier et ânesse</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers / Asinerie d'Embazac</tif:Copyright>
+
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">NIDS D'EMBAZAC</tif:Nom>
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.101669</tif:Longitude>
+<tif:Latitude>43.576388</tif:Latitude>
+<tif:Altitude>300</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">Toulouse-Blagnac</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">35.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.04" libelle="Gare SNCF" xml:lang="fr"><tif:Nom xml:lang="fr">L'Isle-Jourdain</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">2.80</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.11" libelle="Général" xml:lang="fr">
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+<tif:ObservationDetailAcces xml:lang="fr">L'Asinerie d'Embazac se trouve entre Goudourvielle et L'Isle-Jourdain (32)</tif:ObservationDetailAcces>
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">NIDS D'EMBAZAC</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-02</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+<tif:Usage type="11.01.10" libelle="Réservation" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.14" libelle="Espèce" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr">
+
+
+
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>60.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>60.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.29" xml:lang="fr">Lave vaisselle</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.32" xml:lang="fr">Lit enfant</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.31" xml:lang="fr">Lit bébé</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.46" xml:lang="fr">Chaise bébé</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.21" xml:lang="fr">Draps et linges compris</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.47" xml:lang="fr">Jacuzzi</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.123" xml:lang="fr">Terrasse</tif:Prestation>
+<tif:Nom lang="">NIDS D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32158">L'Isle-Bouzon</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr">
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

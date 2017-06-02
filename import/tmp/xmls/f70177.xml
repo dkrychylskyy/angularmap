@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.CHA.334.070177.9</dc:identifier>
+<dc:identifier2>32.MEU.32339.70177</dc:identifier2>
+<dc:creator>OT-lIsle-Jourdain</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>CHÂTEAU DE RAZENGUES</dc:title>
+<dc:description>Nous sommes heureux de vous accueillir dans notre château du XVIème siècle où confort moderne fleurte avec respect du patrimoine.
+Vous aurez à votre disposition une chambre équipée d'une salle de bain, WC, à la décoration soignée, une cuisine, un salon. Un petit déjeuner vous sera servi accompagné de confitures maison.
+Vous serez charmé par la quiétude de ce lieu et pris par l'ambiance.
+Vous nous rejoindrez peut-être à notre table pour partager un moment convivial !!!</dc:description>
+<tif:ControlledVocabulary code="02.01.04.01.01">Chambre d'hôtes</tif:ControlledVocabulary>
+<tif:Classification code="02.01.04">Hébergement locatif</tif:Classification>
+<dcterms:created>2013-06-12</dcterms:created>
+<dcterms:modified>2016-04-14</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>0</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>pascale.battentier@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Château de Razengues</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+<tif:Prenom>Pascale</tif:Prenom>
+<tif:Nom>FRAY</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>pascale.battentier@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)6 76 43 42 78</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>Château de Razengues</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)6 76 43 42 78</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>pascale.battentier@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034230.jpg</URL>
+<tif:Nom xml:lang="fr">Chambre - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034228.jpg</URL>
+<tif:Nom xml:lang="fr">Patit-déjeuner - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034223.jpg</URL>
+<tif:Nom xml:lang="fr">Vue d'ensemble - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034224.jpg</URL>
+<tif:Nom xml:lang="fr">Chambre - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034229.jpg</URL>
+<tif:Nom xml:lang="fr">Vue extérieure - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal Gascogne Toulousaine/Y.SENECAL</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034231.jpg</URL>
+<tif:Nom xml:lang="fr">Chambre - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034225.jpg</URL>
+<tif:Nom xml:lang="fr">Salle de bain- Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034227.jpg</URL>
+<tif:Nom xml:lang="fr">Salle à manger - Chambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034232.jpg</URL>
+<tif:Nom xml:lang="fr">Salle de bain - Vhambre d'hôtes RAZENGUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Chambre d'hôtes RAZENGUES/FRAY</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">CHÂTEAU DE RAZENGUES</tif:Nom>
+<tif:Commune code="32339">Razengues</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>0.998063</tif:Longitude>
+<tif:Latitude>43.641308</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.04" libelle="Gare SNCF" xml:lang="fr"><tif:Nom xml:lang="fr">Gare L'Isle-Jourdain</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">9.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">Toulouse-Blagnac</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">39.00</tif:Distance>
+
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-07-05</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-08-26</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-07-22</tif:DateDebut>
+<tif:DateFin>2013-08-18</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+
+
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.09" libelle="Cheques bancaires et postaux" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.18" libelle="Virements" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Chambre 1</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>65.00</tif:TarifMin>
+<tif:TarifMax>75.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Chambre 3</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>65.00</tif:TarifMin>
+<tif:TarifMax>75.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.48" libelle="Location" xml:lang="fr"><tif:Nom xml:lang="fr">Nuitée en semaine</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>68.00</tif:TarifMin>
+<tif:TarifMax>70.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Chambre 2</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>65.00</tif:TarifMin>
+<tif:TarifMax>75.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.48" libelle="Location" xml:lang="fr"><tif:Nom xml:lang="fr">Nuitée en Week-End</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>70.00</tif:TarifMin>
+<tif:TarifMax>75.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.03" libelle="Chambres" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">3</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.03" libelle="Chambres" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">2</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">7</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.03" libelle="Chambres" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">2</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+
+
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.02" xml:lang="fr">Abris pour vélo ou VTT</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.48" xml:lang="fr">Jardin</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.104" xml:lang="fr">Coin salon</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.03" xml:lang="fr">Abri couvert</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.106" xml:lang="fr">Salon de jardin</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.06" xml:lang="fr">Baignoire</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.14" xml:lang="fr">Climatisation</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.42" xml:lang="fr">Sèche cheveux</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.56" xml:lang="fr">Télévision</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.31" xml:lang="fr">Lit bébé</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.01" xml:lang="fr">Accès Internet</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.46" xml:lang="fr">Chaise bébé</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.21" xml:lang="fr">Draps et linges compris</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.53" xml:lang="fr">Téléphone</tif:Prestation>
+<tif:Nom lang="">CHÂTEAU DE RAZENGUES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32339">Razengues</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr">
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

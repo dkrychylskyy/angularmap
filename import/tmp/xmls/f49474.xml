@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.AG_A.157.022685.10</dc:identifier>
+<dc:identifier2>32.DEG.32160.49474</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>COMPTOIR DE NOS FERMES</dc:title>
+<dc:description>La boutique aux accents du terroir : confiseries, viande, vins, produits salés. Une boutique où le midi notre gastronomie se révèle à vos papilles.</dc:description>
+<tif:ControlledVocabulary code="02.01.02.01.09">Vins</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.01.900">Confiseries, chocolat et confitures</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.01.902">Produits de la ferme</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.02.900">Boutique de vente</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.04">Informations partielles (Non Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.03">Les bons crus d'artagnan©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.03">Bienvenue à la ferme</tif:ControlledVocabulary>
+<tif:Classification code="02.01.02">Dégustation</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.03">Les bons crus d'artagnan©</tif:Classification>
+<tif:Classification code="02.101.03">Bienvenue à la ferme</tif:Classification>
+<dcterms:created>2011-07-27</dcterms:created>
+<dcterms:modified>2017-05-15</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1377813600</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr"><tif:RaisonSociale>COMPTOIR DE NOS FERMES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>Eliane</tif:Prenom>
+<tif:Nom>BAJON</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>COMPTOIR DE NOS FERMES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>13 place Gambetta</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.terroir-gers.com/fr/terroir-gers-eliane-bajon-comptoir-de-nos-fermes-boutique-et-produits</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 27 93</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>comptoirfermes@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr"><tif:RaisonSociale>COMPTOIR DE NOS FERMES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>19 rue de la République</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>Eliane</tif:Prenom>
+<tif:Nom>Bajon</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>eliane.bajon@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 27 93</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.01" xml:lang="fr">Associatif</tif:ModeGestion>
+<tif:SIRET>52182851700024</tif:SIRET>
+
+<tif:RCS>521828517</tif:RCS>
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028638.jpg</URL>
+<tif:Nom xml:lang="fr">COMPTOIR DE NOS FERMES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/E. Bajon</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028640.jpg</URL>
+<tif:Nom xml:lang="fr">COMPTOIR DE NOS FERMES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/E. Bajon</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028639.jpg</URL>
+<tif:Nom xml:lang="fr">COMPTOIR DE NOS FERMES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/E. Bajon</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028637.jpg</URL>
+<tif:Nom xml:lang="fr">COMPTOIR DE NOS FERMES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascog</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">COMPTOIR DE NOS FERMES</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.0824751</tif:Longitude>
+<tif:Latitude>43.6142169</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr">
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2017-05-01</tif:DateDebut>
+<tif:DateFin>2017-07-16</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>16:00</tif:HoraireDebut>
+<tif:HoraireFin>19:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>09:30</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>15:00</tif:HoraireDebut>
+<tif:HoraireFin>19:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.01" libelle="Fermeture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.01" libelle="Fermeture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>16:00</tif:HoraireDebut>
+<tif:HoraireFin>19:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>16:00</tif:HoraireDebut>
+<tif:HoraireFin>19:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>16:00</tif:HoraireDebut>
+<tif:HoraireFin>19:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.01" libelle="Individuels" xml:lang="fr">
+</tif:DetailClienteles>
+<tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr">
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.02</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.04" libelle="Carte bleue" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.02" libelle="American Express" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.15" libelle="Eurocard Mastercard" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.19" libelle="Visa" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Offre privilège : 1 café gourmand offert pour 1 menu acheté</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Offre privilège : 1 café gourmand offert</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Offre privilège : 1 café gourmand offert</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Offre privilège : 1 café gourmand offert pour 1 menu acheté</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.64" xml:lang="fr">Parking</tif:Prestation>
+<tif:Nom lang="">COMPTOIR DE NOS FERMES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.65" xml:lang="fr">Parking autocar</tif:Prestation>
+<tif:Nom lang="">COMPTOIR DE NOS FERMES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.02" libelle="Activités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.02.15" xml:lang="fr">Dégustation de produits</tif:Prestation>
+<tif:Nom lang="">COMPTOIR DE NOS FERMES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.96" xml:lang="fr">Visites guidées</tif:Prestation>
+<tif:Nom lang="">COMPTOIR DE NOS FERMES</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.16" xml:lang="fr">Boutique</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>N</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32001">Aignan</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Cette boutique de produits du terroir est un endroit authentique pour les curieux et fines bouches. 
+
+Nous réalisons pour vous vos coffrets cadeaux du terroir.
+
+Toute une gamme de produits gastronomiques, qualitatifs et savoureux pour vous faire plaisir ou faire plaisir à vos proches.
+
+Bien au frais dans notre cave de briques vous est proposé un large choix de vins, sélectionnés parmi les meilleurs : vin, Floc de Gascogne, Côtes de Gascogne, Pousse-Rapière, Armagnac&amp;#8230;
+
+La table le midi vous permettra de découvrir notre gastronomie gersoise avec un choix variés de plats authentiques et traditionnels à déguster. </tif:Description>
+<tif:Description type="16.100.03" libelle="Les bons crus d'artagnan" lang="FR">La boutique du Comptoir de nos fermes offre le meilleur du Gers : des produits des fermes et producteurs du coin ainsi que de nombreuses découvertes gourmandes.
+
+Vous aurez le choix à travers une gamme variée de produits du terroir gersois : foie gras, confit, magret frais, cassoulet, viandes fraîches, vins, floc de Gascogne, armagnacs . 
+
+Nous vous proposerons également un choix variés de plats authentiques et traditionnels à déguster sur place le midi. 
+
+Et pour accompagner tous ces succulents mets quoi de mieux que les incontournables vins et spiritueux du Gers : Floc de Gascogne, Côtes de Gascogne, Pousse rapière, Armagnac également proposés à la dégustation pour le plus grand bonheur de vos papilles !
+
+Une cave atypique qui vous réserve une curiosité à voir de vos propres yeux...</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.02.900" libelle="Editions papier CDTL" lang="FR">Huiles fermières, foie gras,pâtés,viande, vins,floc,armagnac,confiseries, produits salés. </tif:Description>
+<tif:Description type="16.100.04" libelle="Passeport privilège" lang="FR">Cette boutique de produits du terroir est un endroit authentique pour les curieux et fines bouches. La table le midi vous permettra de découvrir notre gastronomie gersoise. Accueil chambres d'hôtes.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

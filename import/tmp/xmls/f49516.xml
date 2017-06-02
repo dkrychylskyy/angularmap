@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.AG_A.157.000767.10</dc:identifier>
+<dc:identifier2>32.DEG.32160.49516</dc:identifier2>
+<dc:creator>0</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>FERME DE LAS CRABÈRES</dc:title>
+
+<tif:ControlledVocabulary code="02.01.02.01.04">Foie gras</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.01.904">Viandes et volailles</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.02.08">Producteur</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.900.02">Par temps de pluie</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.04">Informations partielles (Non Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.02">Syndicat producteurs à la ferme</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.03">Bienvenue à la ferme</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.04">Excellence Gers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.02">Dégustation</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.101.02">Syndicat producteurs à la ferme</tif:Classification>
+<tif:Classification code="02.101.03">Bienvenue à la ferme</tif:Classification>
+<tif:Classification code="02.101.04">Excellence Gers</tif:Classification>
+<dcterms:modified>2016-06-13</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1433455200</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>LAS CRABERES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 27 02</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.901" libelle="Facebook (URL)" xml:lang="fr"><tif:Coord>https://www.facebook.com/pages/Ferme-de-Las-Crab%C3%A8res/159321537429168</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.900" libelle="Tél. portable" xml:lang="fr"><tif:Coord>+33 (0)6 80 73 59 02</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.las-craberes.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>craberes32@yahoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.34" libelle="Service commercial" xml:lang="fr"><tif:RaisonSociale>LAS CRABERES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Route de Toulouse</tif:Adr1>
+<tif:Adr2>D 924</tif:Adr2>
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Francis</tif:Prenom>
+<tif:Nom>MAUCO</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 27 02</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 30 17</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.las-craberes.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>craberes32@yahoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>fmauco32@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr"><tif:RaisonSociale>LAS CRABERES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Route de Toulouse</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.las-craberes.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>craberes32@yahoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr"><tif:RaisonSociale>LAS CRABERES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+<tif:Adr2>Route de Toulouse</tif:Adr2>
+<tif:Adr3>D 924</tif:Adr3>
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Francis</tif:Prenom>
+<tif:Nom>MAUCO</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>fmauco32@gmail.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028712.jpg</URL>
+<tif:Nom xml:lang="fr">LAS CRABERES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Las Crabères</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028711.jpg</URL>
+<tif:Nom xml:lang="fr">LAS CRABERES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Las Crabères</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028713.jpg</URL>
+<tif:Nom xml:lang="fr">LAS CRABERES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Las Crabères</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.900.02" libelle="Nationales" xml:lang="fr"><tif:Classement type="06.900.02.10" xml:lang="fr">Bienvenue à la Ferme</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.03.905.01" libelle="Canard à Foie Gras du Sud-Ouest" xml:lang="fr">
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.02" libelle="Fermé" xml:lang="fr">
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">LAS CRABÈRES</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.1084470</tif:Longitude>
+<tif:Latitude>43.5996158</tif:Latitude>
+<tif:Altitude>116</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.08" libelle="Route" xml:lang="fr"><tif:Nom xml:lang="fr">Ferme de Las Crabères</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+<tif:ObservationDetailAcces xml:lang="fr">En venant de Toulouse : Prendre la première sortie indiquée L&amp;#8217;Isle Jourdain, 300 mètres après la sortie, l&amp;#8217;accès à la ferme se trouve sur la gauche.
+
+En venant d&amp;#8217;Auch ou de Samatan : Ne pas s&amp;#8217;engager sur la quatre voies, Prendre le centre ville de L&amp;#8217;Isle Jourdain, puis au feu prendre la direction Toulouse.
+
+En venant de Cologne, Mauvezin : Au lac, prendre la direction du centre ville, puis au feu suivre la direction Toulouse.
+
+En venant de Ségoufielle, Grenade : Arriver au centre ville,  au feu prendre à gauche la direction Toulouse.
+
+Nota : A partir du  centre ville (feux de signalisation), l&amp;#8217;accès à la ferme se trouve à 3 Km en direction de Toulouse sur la D 575 sur votre droite.
+
+</tif:ObservationDetailAcces>
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LA FERME DE LAS CRABÈRES</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Nous consulter.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">La Ferme de Las Crabères</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">La Ferme de Las Crabères</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Ouvert toute l'année.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">La Ferme de las Crabères</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">toute l'année</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LAS CRABERES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr">
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.02</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+
+<tif:Tarifs>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">5% de remise sur vos achats.</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr"><tif:Nom xml:lang="fr">FERME DE LAS CRABÈRES</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Nous consulter.</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">1 pot de rillettes 130g offert pour tout achat.</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">1 pot de rillettes 130g offert pour tout achat. </tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">1 pot de rillettes 130g offert pour tout achat.</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.16" xml:lang="fr">Boutique</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.96" xml:lang="fr">Visites guidées</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.05" xml:lang="fr">Animaux acceptés</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.33" xml:lang="fr">Emplacement camping car</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.903" libelle="Loisirs" xml:lang="fr"><tif:Description type="16.02.14" libelle="Marchés" lang="FR">Marché à la Ferme le vendredi 25 Juillet à partir de 16h.
+Stands de producteurs fermiers : Foie-gras, conserves, viandes de boeuf, escargots, safran, croustades
+Animations : diverses, brûlot, animation musicale, conteur, peintres
+Heure de repas 19h30 avec réservation souhaitée</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Nicole et Françis MAUCO vous accueillent à la ferme Las Crabères, une petite exploitation agricole située entre Auch et Toulouse. Depuis plusieurs générations, leurs canards vivent en plein air, sont gavés au maïs du pays puis transformés dans leur laboratoire. Venez découvrir toute la saveur du terroir à travers une gamme de produits : foie gras, confits, plats cuisinés (magret fourré au foie gras, cou farci, cassoulet, garbure, pâtés... et leur nouveauté la Tajine de canard), coffrets cadeaux. Vous pouvez également visiter la ferme et découvrir leur savoir-faire hérité des traditions gasconnes.
+
+&lt;a href=http://www.routedufoiegrasdugers-igp.org/les-professionnels/&gt;Retrouvez ce producteur sur le Route du Foie Gras IGP Sud-Ouest - Gers&lt;/a&gt;</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.02.900" libelle="Editions papier CDTL" lang="FR">Conserves canards (foie gras, confits, spécialités)</tif:Description>
+<tif:Description type="16.100.04" libelle="Passeport privilège" lang="FR">Nicole et Françis MAUCO vous accueillent à la ferme Las Crabères, une petite exploitation agricole située entre Auch et Toulouse. Depuis plusieurs générations, leurs canards vivent en plein air, sont gavés au maïs du pays puis transformés dans leur laboratoire. Venez découvrir toute la saveur du terroir à travers une gamme de produits : foie gras, confits, plats cuisinés (magret fourré au foie gras, cou farci, cassoulet, garbure, pâtés... et leur nouveauté la tajine de canard), coffrets cadeaux. Vous pouvez également visiter la ferme et découvrir leur savoir-faire hérité des traditions gasconnes.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+<tif:Itineraires><tif:DetailItineraire type="18.02.01" libelle="Circuit" xml:lang="fr"><tif:Denivele type="18.01.01" libelle="Cumulé" xml:lang="fr">0</tif:Denivele>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+<tif:AltitudeMini>1970-01-01</tif:AltitudeMini>
+<tif:AltitudeMaxi>1970-01-01</tif:AltitudeMaxi>
+<tif:Duree unite="01.03.03.03" libelle="heure" xml:lang="fr">0</tif:Duree>
+<tif:DescriptionItineraire xml:lang="fr">En venant de Toulouse : Prendre la première sortie indiquée L&amp;#8217;Isle Jourdain, 300 mètres après la sortie, l&amp;#8217;accès à la ferme se trouve sur la gauche.
+
+En venant d&amp;#8217;Auch ou de Samatan : Ne pas s&amp;#8217;engager sur la quatre voies, Prendre le centre ville de L&amp;#8217;Isle Jourdain, puis au feu prendre la direction Toulouse.
+
+En venant de Cologne, Mauvezin : Au lac, prendre la direction du centre ville, puis au feu suivre la direction Toulouse.
+
+En venant de Ségoufielle, Grenade : Arriver au centre ville,  au feu prendre à gauche la direction Toulouse.
+
+Nota : A partir du  centre ville (feux de signalisation), l&amp;#8217;accès à la ferme se trouve à 3 Km en direction de Toulouse sur la D 924 sur votre droite.
+
+</tif:DescriptionItineraire>
+</tif:DetailItineraire>
+</tif:Itineraires>
+</tif:OI>

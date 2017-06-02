@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.TG.329.000381.10</dc:identifier>
+<dc:identifier2>32.RES.32334.51652</dc:identifier2>
+<dc:creator>1</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>LE PUITS SAINT JACQUES</dc:title>
+<dc:description>Autrefois étape des pélerins de Saint-Jacques de Compostelle, aujourd'hui étape gastronomique reconnue, les lieux sont toujours riches de tradition. Bernard Bach vous propose une cuisine raffinée, en harmonie avec les produits du terroir. </dc:description>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.04">Informations partielles (Non Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.01.906">Tradition</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.02.05">Restaurant</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.03.08">Cuisine gastronomique</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.02">Gersfriendly©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.15">Tendance (GersFriendly)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.01">Les tables du Gers©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.14">Ressortissant CCI</tif:ControlledVocabulary>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.01.13">Restauration</tif:Classification>
+<tif:Classification code="02.100.02">Gersfriendly©</tif:Classification>
+<tif:Classification code="02.100.15">Tendance (GersFriendly)</tif:Classification>
+<tif:Classification code="02.101.01">Les tables du Gers©</tif:Classification>
+<tif:Classification code="02.101.14">Ressortissant CCI</tif:Classification>
+<dcterms:created>2004-06-08</dcterms:created>
+<dcterms:modified>2016-12-01</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1378677600</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@lepuitssaintjacques.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Avenue Victor Capoul</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Bernard</tif:Prenom>
+<tif:Nom>BACH</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Avenue Victor Capoul</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Bernard</tif:Prenom>
+<tif:Nom>BACH</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>LE PUITS SAINT JACQUES</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Avenue Victor Capoul</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 44 09</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@lepuitssaintjacques.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.lepuitssaintjacques.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 41 11</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.901" libelle="Facebook (URL)" xml:lang="fr"><tif:Coord>https://www.facebook.com/pages/Le-Puits-Saint-Jacques/141581032612143</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055155.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024350.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puy Saint-Jacques</tif:Copyright>
+
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055174.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055154.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055153.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055152.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055175.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055176.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puits Saint-Jacques/Sophie Hanon</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">portrait</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024349.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puy Saint-Jacques</tif:Copyright>
+
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024351.jpg</URL>
+<tif:Nom xml:lang="fr">LE PUITS SAINT-JACQUES</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Restaurant Le Puy Saint-Jacques</tif:Copyright>
+
+
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.03.04.03" libelle="Tables et auberges de France" xml:lang="fr"><tif:Classement type="06.03.04.03.04" xml:lang="fr">Table de prestige</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.03.04.903" libelle="Restaurant de qualité" xml:lang="fr">
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.02" libelle="Fermé" xml:lang="fr">
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS ST JACQUES</tif:Nom>
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.149917</tif:Longitude>
+<tif:Latitude>43.590731</tif:Latitude>
+<tif:Altitude>302</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.06" libelle="Gare Routière" xml:lang="fr"><tif:Nom xml:lang="fr">AUCH</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">25.00</tif:Distance>
+
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS SAINT JACQUES</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Ouvert le 1er janvier midi</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-18</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>20h</tif:HoraireDebut>
+<tif:HoraireFin>22h</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>12h</tif:HoraireDebut>
+<tif:HoraireFin>14h</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12h</tif:HoraireDebut>
+<tif:HoraireFin>14h</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>20h</tif:HoraireDebut>
+<tif:HoraireFin>22h</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12h</tif:HoraireDebut>
+<tif:HoraireFin>14h</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12h</tif:HoraireDebut>
+<tif:HoraireFin>14h</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>20h</tif:HoraireDebut>
+<tif:HoraireFin>22h</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>20h</tif:HoraireDebut>
+<tif:HoraireFin>22h</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>12h</tif:HoraireDebut>
+<tif:HoraireFin>14h</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS SAINT JACQUES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-01-03</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.04" libelle="Fermeture" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS SAINT JACQUES</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Fermeture du 03/01/2016 soir au 15/01/2016 midi.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-03</tif:DateDebut>
+<tif:DateFin>2016-01-15</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS SAINT JACQUES</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Ouverture du 15/01/2016 soir au 21/08/2016 midi.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-15</tif:DateDebut>
+<tif:DateFin>2016-08-21</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.04" libelle="Fermeture" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS SAINT JACQUES</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Ferture du 21/08/2016 soir au 09/09/2016 midi</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-08-21</tif:DateDebut>
+<tif:DateFin>2016-09-09</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LE PUITS SAINT JACQUES</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-09-09</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr"><tif:DetailClient type="10.02.26" libelle="Tout public" xml:lang="fr">
+<tif:GroupeRef>O</tif:GroupeRef>
+<tif:NbPersMin>0</tif:NbPersMin>
+<tif:NbPersMax>0</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+</tif:Clienteles>
+
+<tif:Guides><tif:Guide type="06.03.06.12" libelle="Michelin" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.12.02</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.11" libelle="Le petit futé" xml:lang="fr">
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.02</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.26" libelle="Editions locales" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.26.02</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.04" libelle="Carte bleue" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.05.09" libelle="Menu dégustation" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>115.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>115.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.05" libelle="Tarif menu" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>29.00</tif:TarifMin>
+<tif:TarifMax>68.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Menu retour du marché</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>32.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>32.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Du 22 au 24 Juin.
+Tarif hors boissons.</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.03" libelle="Menu enfant" xml:lang="fr"><tif:Nom xml:lang="fr">Menu enfant jusqu'à 10 ans</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>22.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>22.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Tarif hors boissons</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Menu dégustation</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>120.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>120.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Menu servi à toute la table.
+Tarif hors boissons;</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Menu Découverte de l'été</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>70.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>70.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Tarif hors boissons</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.08" libelle="Salles" xml:lang="fr"><tif:Capacite unite="01.03.01.07" libelle="Couvert" classee="N" xml:lang="fr">60</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr"><tif:Capacite unite="01.03.01.07" libelle="Couvert" classee="N" xml:lang="fr">60</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr"><tif:Capacite unite="01.03.01.18" libelle="Salle" classee="N" xml:lang="fr">1</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+
+
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.123" xml:lang="fr">Terrasse</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32334">Pujaudran</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.100.02" libelle="Gersfriendly" lang="FR">Sur le chemin de Saint-Jacques de Compostelle, au cœur de Pujaudran, petit village du Gers, Le Puits Saint-Jacques ouvre les portes de ses salons et de son patio à tous les gourmands. 
+
+Le cadre de charme et l&amp;#8217;élégante simplicité de la décoration pose une ambiance « campagne chic » annonciatrice de bons moments autour de la table.
+
+« Etoilé Michelin » depuis 1997, le chef Bernard Bach a fait du Puits Saint-Jacques sa maison. Il y a peaufiné ses recettes, affiné ses cuissons, travaillé la constance et la précision indispensables pour proposer la cuisine qu&amp;#8217;il a en tête : exigeante mais facile d&amp;#8217;accès.
+
+Sa simplicité gourmande repose sur la belle tradition française. Celle des terroirs et des produits, celle qui sait garder sa force et son identité mais aussi s&amp;#8217;ouvrir au saveurs du monde et de l&amp;#8217;époque.</tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Sur la commune de Pujaudran, à seulement 10mn de L'Isle Jourdain et 20mn de Toulouse, Bernard Bach, grand chef doublement étoilé au Guide Michelin, vous accueille dans son restaurant le Puits Saint Jacques.
+Terrasse, salons privés et salle à manger allient sobrement le raffinement d'une vaisselle unique à des meubles pâlis pour une touche déco &quot;campagne chic&quot;.
+Le Chef, à la réputation reconnue, utilise les fondamentaux de la gastronomie gersoise en les revisitant et leurs apportant sa note de fantaisie. Une cuisine fine, d'exception, riche en authenticité, fraîcheur et créativité vous sera présentée avec grâce et beauté. Parmi les pépites de la carte, vous retrouverez : le foie gras de canard confit aux grandes de fenouil, du homard bleu en vinaigrette d'agrumes sur une fine tarte sablée de Parmesan Ricotte et Tempura végétale ou encore une rubarbe confite et framboise sur un sablé &quot;beurre extra-fin&quot;avec son jus centrifugé rafraîchi d'un sorbet à l'estragon...
+Le Chef propose également, deux fois par mois, des cours de cuisine riches en partage et complicité. Il a également rédigé pour vous le livre &quot;Les Rendez-vous gourmands du Gers&quot; où de nombreuses recettes ont été compilées et détaillées pour les amoureux de la cuisine gersoise.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="100.05.142" libelle="Spécialités" lang="FR">Tatin de foie gras po&amp;ecirc;l&amp;eacute;e aux griottines, Sp&amp;eacute;cialit&amp;eacute;s aux truffes...</tif:Description>
+<tif:Description type="16.02.09" libelle="Informations complémentaires" lang="FR">Autrefois étape des pélerins de Saint-Jacques de Compostelle, aujourd'hui étape gastronomique reconnue, les lieux sont toujours riches de tradition. Bernard Bach vous propose une cuisine raffinée, en harmonie avec les produits du terroir. 
+
+</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

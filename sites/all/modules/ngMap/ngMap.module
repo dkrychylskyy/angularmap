@@ -1,0 +1,50 @@
+<?php
+
+/**
+*Implements hook_menu()
+*/
+function ngMap_menu() {
+  $items['map'] = array(
+    'title' => 'Map',
+    'page callback' => 'ngMap_page',
+    'access arguments' => array('access content'),
+  );
+
+  return $items;
+}
+
+
+/**
+*hook_theme()
+*создание темы и подключение шаблона из файла ngMap.tpl.php
+*/
+function ngMap_theme() {
+    return array(
+        'ngMap' => array(
+            'template' => 'ngMap',
+        ),
+    );
+}
+
+
+/**
+* All ngMap callback
+* определненее страницы как таковой
+* подключение библиотеки angular
+* возвращает тему
+*/
+function ngMap_page() {
+  // Set the path
+  $path = drupal_get_path('module', 'ngMap');
+
+  // Load angular
+  drupal_add_library('angularjs', 'angularjs');
+
+  // Load the app
+  drupal_add_js($path . '/js/ngMap.gen.js');// в этом месте вставляется angular app на страницу Drupal
+
+  drupal_add_css($path . '/css/bootstrap.css');
+
+  // Return the HTML template
+  return theme ('ngMap');
+}

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.MBA.157.113651.10</dc:identifier>
+<dc:identifier2>32.MEU.32160.113651</dc:identifier2>
+<dc:creator>0</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>FERME LE FIOUZAIRE</dc:title>
+<dc:description>À 30 minutes de Toulouse, sur la route vers Saint Jacques de Compostelle, avec belle vue sur la campagne gersoise, nous vous proposons un gîte de 70m2 dans une propriété de 2 hectares en transition vers la culture biologique.
+
+La maison se compose de 2 chambres, salon, cuisine aménagée, salle d'eau, grande terrasse, lave-linge.
+En saison le Wifi, le parking et l'utilisation de la piscine sont gratuits;</dc:description>
+<tif:ControlledVocabulary code="02.01.04.01.02">Meublés et Gîtes</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.02">Pas de publication</tif:ControlledVocabulary>
+<tif:Classification code="02.01.04">Hébergement locatif</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<dcterms:created>2017-03-26</dcterms:created>
+<dcterms:modified>2016-05-18</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2016-05-12</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>hourly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>0</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>FERME LE FIOUZAIRE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Chemin de Ninets</tif:Adr1>
+<tif:Adr2>Route de Grenade</tif:Adr2>
+<tif:Adr3>Le Fiouzaire</tif:Adr3>
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="04.04.05" libelle="Moyens de communication" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Pierre</tif:Prenom>
+<tif:Nom>REICH</tif:Nom>
+<tif:Fonction xml:lang="fr">Propriétaire</tif:Fonction>
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.900" libelle="Tél. portable" xml:lang="fr"><tif:Coord>+33 (0)7 77 75 49 41</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>lefiouzaire@eml.cc</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Chemin de Ninets</tif:Adr1>
+<tif:Adr2>Le Fiouzaire</tif:Adr2>
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="04.04.05" libelle="Moyens de communication" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Pierre</tif:Prenom>
+<tif:Nom>REICH</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>lefiouzaire@eml.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.900" libelle="Tél. portable" xml:lang="fr"><tif:Coord>+33 (0)7 77 75 49 41</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+<tif:SIRET>81989223300019</tif:SIRET>
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078705.jpg</URL>
+<tif:Nom xml:lang="fr">Vue - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#8</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078698.jpg</URL>
+<tif:Nom xml:lang="fr">Ferme Le Fiouzaire - gîte L'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078702.jpg</URL>
+<tif:Nom xml:lang="fr">Chambre - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078700.jpg</URL>
+<tif:Nom xml:lang="fr">Piscine - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078699.jpg</URL>
+<tif:Nom xml:lang="fr">Séjour - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078701.jpg</URL>
+<tif:Nom xml:lang="fr">Cuisine - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078703.jpg</URL>
+<tif:Nom xml:lang="fr">Chambre - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#6</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0078704.jpg</URL>
+<tif:Nom xml:lang="fr">Chambre - Le Fiouzaire</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/P REICH</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#7</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.04.01.04" libelle="Meublés" xml:lang="fr"><tif:Classement type="06.04.01.04.07" xml:lang="fr">Non Classé</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.02" libelle="Fermé" xml:lang="fr"><tif:Nom>Midi-Pyrénées</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">Le Fiouzaire</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.08174100</tif:Longitude>
+<tif:Latitude>43.61383690</tif:Latitude>
+<tif:Altitude>300</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+<tif:Environnements><tif:DetailEnvironnement type="08.02.03.01" libelle="A la campagne" xml:lang="fr"><tif:Nom xml:lang="fr">À la campagne</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+</tif:DetailEnvironnement>
+</tif:Environnements>
+<tif:Cartes><tif:DetailCarte type="08.02.01.02" libelle="Michelin" xml:lang="fr"><tif:Numero>336</tif:Numero>
+<tif:Pli>I8</tif:Pli>
+
+</tif:DetailCarte>
+</tif:Cartes>
+<tif:Acces><tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">Toulouse-Blagnac</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">25.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.04" libelle="Gare SNCF" xml:lang="fr"><tif:Nom xml:lang="fr">Gare L'Isle-Jourdain</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">3.10</tif:Distance>
+
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.08" libelle="Tarifaire" xml:lang="fr"><tif:Nom xml:lang="fr">3 nuits BS</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">3 nuits BS 2015</tif:ObservationDetailPeriode>
+
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.04" libelle="Fermeture" xml:lang="fr"><tif:Nom xml:lang="fr">FERME LE FIOUZAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-06-25</tif:DateDebut>
+<tif:DateFin>2016-07-05</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.08" libelle="Tarifaire" xml:lang="fr"><tif:Nom xml:lang="fr">3 nuits MS</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">3 nuits MS 2015</tif:ObservationDetailPeriode>
+
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">FERME LE FIOUZAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-04-25</tif:DateDebut>
+<tif:DateFin>2016-06-25</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.08" libelle="Tarifaire" xml:lang="fr"><tif:Nom xml:lang="fr">3 nuits SI</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">3 nuits SI 2015</tif:ObservationDetailPeriode>
+
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.08" libelle="Tarifaire" xml:lang="fr"><tif:Nom xml:lang="fr">Week end SI</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Week end SI 2015</tif:ObservationDetailPeriode>
+
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.08" libelle="Tarifaire" xml:lang="fr"><tif:Nom xml:lang="fr">Week end BS</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Week end BS 2015</tif:ObservationDetailPeriode>
+
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.08" libelle="Tarifaire" xml:lang="fr"><tif:Nom xml:lang="fr">Week end MS</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Week end MS 2015</tif:ObservationDetailPeriode>
+
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">FERME LE FIOUZAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-07-05</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Hongrois</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+</tif:Usage>
+<tif:Usage type="11.01.10" libelle="Réservation" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Hongrois</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+</tif:Usage>
+</tif:Langues>
+
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">Nuitée pour 4 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>90.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>90.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">Nuitée pour 7 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>120.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>120.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">Nuitée pour 2 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>70.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>70.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.08" libelle="Une personne (Chambres d'hôtes)" xml:lang="fr"><tif:Nom xml:lang="fr">1 Personne</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>60.00</tif:TarifMin>
+<tif:TarifMax>60.00</tif:TarifMax>
+
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="Code Inconnu" libelle="" xml:lang="fr"><tif:Nom xml:lang="fr">Personne supplémentaire</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>10.00</tif:TarifMin>
+<tif:TarifMax>10.00</tif:TarifMax>
+
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="Code Inconnu" libelle="" xml:lang="fr"><tif:Nom xml:lang="fr">REPAS</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>22.00</tif:TarifMin>
+<tif:TarifMax>22.00</tif:TarifMax>
+
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.09" libelle="Deux personnes (Chambres d'hôtes)" xml:lang="fr"><tif:Nom xml:lang="fr">2 Personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>65.00</tif:TarifMin>
+<tif:TarifMax>65.00</tif:TarifMax>
+
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="CH4PERS" libelle="" xml:lang="fr"><tif:Nom xml:lang="fr">4 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>88.00</tif:TarifMin>
+<tif:TarifMax>88.00</tif:TarifMax>
+
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.10" libelle="Trois personnes (Chambres d'hôtes)" xml:lang="fr"><tif:Nom xml:lang="fr">3 Personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>75.00</tif:TarifMin>
+<tif:TarifMax>78.00</tif:TarifMax>
+
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">7</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+
+
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.02" xml:lang="fr">Abris pour vélo ou VTT</tif:Prestation>
+<tif:Nom lang="">Abri vélos</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.03" xml:lang="fr">Abri couvert</tif:Prestation>
+<tif:Nom lang="">Abri couvert</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.14" xml:lang="fr">Barbecue</tif:Prestation>
+<tif:Nom lang="">Barbecue</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.34" xml:lang="fr">Entrée indépendante</tif:Prestation>
+<tif:Nom lang="">Entrée indépendante</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.52" xml:lang="fr">Jeux pour enfants</tif:Prestation>
+<tif:Nom lang="">Jeux pour enfants</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.48" xml:lang="fr">Jardin</tif:Prestation>
+<tif:Nom lang="">Jardin</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.48" xml:lang="fr">Jardin</tif:Prestation>
+<tif:Nom lang="">Jardin</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.67" xml:lang="fr">Parking privé</tif:Prestation>
+<tif:Nom lang="">Parking privé</tif:Nom>
+
+
+<tif:Inclus>N</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.70" xml:lang="fr">Piscine</tif:Prestation>
+<tif:Nom lang="">Piscine</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.01" xml:lang="fr">A proximité propriétaire</tif:Prestation>
+<tif:Nom lang="">À proximité propriétaire</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.56" xml:lang="fr">Télévision</tif:Prestation>
+<tif:Nom lang="">Télévision</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.28" xml:lang="fr">Lave linge privatif</tif:Prestation>
+<tif:Nom lang="">Leva-linge</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.29" xml:lang="fr">Lave vaisselle</tif:Prestation>
+<tif:Nom lang="">Lave vaisselle</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.21" xml:lang="fr">Draps et linges compris</tif:Prestation>
+<tif:Nom lang="">Draps et linges compris</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.19" xml:lang="fr">Douche</tif:Prestation>
+<tif:Nom lang="">Douche</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.17" xml:lang="fr">Cuisine coin cuisine</tif:Prestation>
+<tif:Nom lang="">Cuisine</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">Wifi</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.01" xml:lang="fr">Accès Internet</tif:Prestation>
+<tif:Nom lang="">Accès Internet</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.15" xml:lang="fr">Coffre</tif:Prestation>
+<tif:Nom lang="">Coffre</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.60" xml:lang="fr">Terrasse privative</tif:Prestation>
+<tif:Nom lang="">Terrasse</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.09" libelle="Informations complémentaires" lang="GB">On the route of Santiago de Compostella, with views of the local countryside, 70m2 guest house on 2 hectares in transition to organic farming. The house can lodge a 7 people in 2 bedrooms, a living room, fully equipped kitchen, bathroom with shower, washing machine, a larhe terrace and a garden.
+
+Wi-fi, parking and use of the pool (in season) are free. 
+
+30 minutes to the airport, main train station and downtown Toulouse.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

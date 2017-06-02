@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.AG_A.263.027103.10</dc:identifier>
+<dc:identifier2>32.DEG.32268.49495</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>LA FERME DU CHOUCOU</dc:title>
+<dc:description>Point de vente Boeuf veau bio</dc:description>
+<tif:ControlledVocabulary code="02.01.02.01.904">Viandes et volailles</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.02.08">Producteur</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.02.900.02">Par temps de pluie</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.03">Informations complètes (Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.03">Bienvenue à la ferme</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.102.10">OT Gascogne Toulousaine</tif:ControlledVocabulary>
+<tif:Classification code="02.01.02">Dégustation</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.101.03">Bienvenue à la ferme</tif:Classification>
+<tif:Classification code="02.102.10">OT Gascogne Toulousaine</tif:Classification>
+<dcterms:created>2011-10-25</dcterms:created>
+<dcterms:modified>2017-05-18</dcterms:modified>
+<dcterms:valid>2035-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1462140000</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>EARL TOURON</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Le Choucou/Chouéou</tif:Adr1>
+
+
+<tif:CodePostal>32490</tif:CodePostal>
+<tif:Commune code="32268">Monferran-Savès</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+<tif:Prenom>Michel et Céline</tif:Prenom>
+<tif:Nom>TOURON</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>mitouron@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.900" libelle="Tél. portable" xml:lang="fr"><tif:Coord>+33 (0)6 84 23 90 71 / 06 81 41 59 09 </tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 84 79</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.lafermeduchoucou.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>mitouron@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr"><tif:RaisonSociale>LA FERME DU CHOUCOU</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+<tif:Prenom>Michel et Céline</tif:Prenom>
+<tif:Nom>TOURON</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029067.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029070.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029066.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029065.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029069.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029068.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0029071.jpg</URL>
+<tif:Nom xml:lang="fr">FERME</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/La Ferme du Choucou</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.900.02" libelle="Nationales" xml:lang="fr"><tif:Classement type="06.900.02.10" xml:lang="fr">Bienvenue à la Ferme</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">LA FERME DU CHOUCOU</tif:Nom>
+<tif:Commune code="32268">Monferran-Savès</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>0.9956574</tif:Longitude>
+<tif:Latitude>43.6090551</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LA FERME DU CHOUCOU</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">La Ferme du Choucou</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Ouvert toute l'année sur rendez-vous.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">Ferme du Choucou</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LA FERME DU CHOUCOU</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Nous consulter.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">Ferme du Choucou</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">toute l'année sur RDV.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.02</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+
+<tif:Tarifs>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.09" libelle="Autre" xml:lang="fr"><tif:Nom xml:lang="fr">Nous consulter</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Merci de nous consulter pour connaitre nos différents tarifs.</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr"><tif:Nom xml:lang="fr">LA FERME DU CHOUCOU</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Nous consulter.</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.96" xml:lang="fr">Visites guidées</tif:Prestation>
+<tif:Nom lang="">de l'élevage sur RDV</tif:Nom>
+
+
+<tif:Inclus>N</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32268">Monferran-Savès</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.16" xml:lang="fr">Boutique</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>N</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32001">Aignan</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.02.900" libelle="Editions papier CDTL" lang="FR">Point de vente de boeuf et de veau </tif:Description>
+<tif:Description type="16.02.09" libelle="Informations complémentaires" lang="FR">Produits : boeuf, veau, viande fraîche découpée, emballée sous-vide sur commande.
+Conserves traditionnelles avec des recettes familiales, plats cuisinés (boeuf bourguignon, blanquette de veau, sauce bolognaise...)
+Visite de l'élevage sur RDV.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Boeuf, veau et volailles &amp;#8230; Saveurs gourmandes à la ferme du Choucou.
+
+Céline et Clément TOURON vous accueillent à la ferme du Choucou, une exploitation très diversifiée, et vous feront découvrir leur passion : le travail de la ferme, des animaux, de l&amp;#8217;élevage.
+Ils proposent de nombreux produits : boeufs, veaux, conserves traditionnelles, recettes familiales, plats cuisinés, lait frais, fromages et volailles. </tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

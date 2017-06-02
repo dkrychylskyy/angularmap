@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.MEUBLAP.157.068079.10</dc:identifier>
+<dc:identifier2>32.MEU.32160.68079</dc:identifier2>
+<dc:creator>OT-lIsle-Jourdain</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>LA NICHÉE D'EMBAZAC</dc:title>
+<dc:description>Dans ce gîte d'étape, c'est un dortoir de 11 lits, avec petit coin cuisine qui vous attend ! 
+C'est l'endroit idéal pour les groupes de randonneurs à pied, à cheval, à vélo, ou tout simplement pour dormir lors de vos fêtes de familles. 
+Bénédicte et Jean-François vous reçoivent dans leur ferme typiquement gersoise au sein de leur élevage d'ânesses laitières.</dc:description>
+<tif:ControlledVocabulary code="02.01.04.01.901">Gîte d'étape</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.03">Informations complètes (Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.01">Le petit d'artagnan©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.11">TerraGers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.04">Hébergement locatif</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.01">Le petit d'artagnan©</tif:Classification>
+<tif:Classification code="02.100.11">TerraGers</tif:Classification>
+<dcterms:created>2013-04-20</dcterms:created>
+<dcterms:modified>2016-09-19</dcterms:modified>
+<dcterms:valid>2017-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1380492000</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>LA NICHÉE D'EMBAZAC</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Route de Goudourvielle</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 02 10</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.embazac.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>embazac@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+<tif:Prenom>Bénédicte et François</tif:Prenom>
+<tif:Nom>WAMBEKE</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>embazac@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034518.jpg</URL>
+<tif:Nom xml:lang="fr">Nichée d'Embazac</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Asinerie d'Embazac</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034516.jpg</URL>
+<tif:Nom xml:lang="fr">Embazac</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Asinerie d'Embazac</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034519.jpg</URL>
+<tif:Nom xml:lang="fr">Terrasse d'Embazac</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Asinerie d'Embazac</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0033324.jpg</URL>
+<tif:Nom xml:lang="fr">ASINERIE D'EMBAZAC</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Asinerie d'Embazac</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">portrait</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0034511.jpg</URL>
+<tif:Nom xml:lang="fr">Anesse</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.04" libelle="Vidéo" xml:lang="fr"><URL>https://www.youtube.com/watch?v=Xdx8PlcnG0k</URL>
+<tif:Nom xml:lang="fr">EMBAZAC</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>application/octetstream</tif:TypeMime>
+
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.900.02" libelle="Nationales" xml:lang="fr"><tif:Classement type="06.900.02.11" xml:lang="fr">Accueil Paysan</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">LA NICHÉE D'EMBAZAC</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.101669</tif:Longitude>
+<tif:Latitude>43.576388</tif:Latitude>
+<tif:Altitude>300</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr">
+<tif:ObservationDetailPeriode xml:lang="fr">ouvert toute l'année</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2015-08-02</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.01" libelle="Individuels" xml:lang="fr">
+</tif:DetailClienteles>
+<tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr"><tif:DetailClient type="10.02.26" libelle="Tout public" xml:lang="fr"><tif:Nom>LA NICHÉE D'EMBAZAC</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>1</tif:NbPersMin>
+<tif:NbPersMax>14</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.05</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.26" libelle="Editions locales" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.26.01</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.26" libelle="Editions locales" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.26.01</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.08</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.09" libelle="Autre" xml:lang="fr"><tif:Nom xml:lang="fr">Jakuzzi</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>5.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>5.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">La Nichée</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>25.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>25.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">lit simple et petit déjeuner</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>25.00</tif:TarifMin>
+<tif:TarifMax>25.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">Nuitée 1 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>25.00</tif:TarifMin>
+<tif:TarifMax>25.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Petit déjeuner inclu</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.07" libelle="Personnes" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="O" xml:lang="fr">11</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.901" libelle="Locations" xml:lang="fr"><tif:Capacite unite="01.03.01.19" libelle="Dortoir" classee="N" xml:lang="fr">1</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+
+
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.47" xml:lang="fr">Bain à remous</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.99" xml:lang="fr">Salle de réunion</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.33" xml:lang="fr">Emplacement camping car</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.29" xml:lang="fr">Lave vaisselle</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.21" xml:lang="fr">Draps et linges compris</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.31" xml:lang="fr">Lit bébé</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.46" xml:lang="fr">Chaise bébé</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.32" xml:lang="fr">Lit enfant</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.01" xml:lang="fr">Accès Internet</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.02" libelle="Activités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.02.01" xml:lang="fr">Animation</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.919" xml:lang="fr">Accueil Jacquaire</tif:Prestation>
+<tif:Nom lang="">LA NICHÉE D'EMBAZAC</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.100.12" libelle="TerraGers" lang="FR">Dans ce gîte d'étape, c'est un dortoir de 11 lits avec coin cuisine qui vous attend! C'est l'endroit idéal pour les groupes de randonneurs à pied, à cheval, à vélo, ou tout simplement pour dormir lors de vos fêtes de familles. 
+Bénédicte et Jean-François vous reçoivent dans leur ferme typiquement gersoise, au sein de leur élevage d'ânesses laitières.
+Le petit + : La petite cuisine avec micro onde et lave vaisselles et la terrasse avec jakuzzi.</tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Dans ce gîte d'étape, c'est un dortoir de 11 lits simples plus une chambre avec 1 lit double + 1 lit simple, avec coin cuisine qui vous attend! C'est l'endroit idéal pour les groupes de randonneurs à pied, à cheval, à vélo, ou tout simplement pour dormir lors de vos fêtes de familles. 
+Bénédicte et Jean-François vous reçoivent dans leur ferme typiquement gersoise, au sein de leur élevage d'ânesses laitières.
+
+Le petit + :  La petite cuisine avec micro onde et lave vaisselles et la terrasse avec jakuzzi.</tif:Description>
+<tif:Description type="16.100.01" libelle="Le petit d'artagnan" lang="FR">Dans ce gîte d'étape, un dortoir de 11 lits avec coin cuisine vous attend! C'est l'endroit idéal pour les groupes de randonneurs à pied, à cheval, à vélo, ou tout simplement pour dormir lors de vos fêtes de familles. 
+Bénédicte et Jean-François vous reçoivent dans leur ferme typiquement gersoise, au sein de leur élevage d'ânesses laitières.
+
+Le petit + : La petite cuisine avec micro onde et lave vaisselles et la terrasse avec jakuzzi.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.100.01" libelle="Le petit d'artagnan" lang="FR">Bénédicte et Jean-François vous accueillent dans leur ferme typiquement gersoise, aux portes de la Gascogne Toulousaine. Venez passer une nuit insolite en famille au sein de leur élevage d'ânesses laitières ! Dans ce gîte d'étape, un dortoir de 11 lits avec coin cuisine vous attend. C'est l'endroit idéal pour les randonneurs à pied, à cheval, à vélo, ou tout simplement pour dormir lors de vos fêtes de familles. Deux chambres d'hôtes sont également à votre disposition.
+
+Le petit + : La petite cuisine avec micro onde et lave vaisselles et la terrasse avec jakuzzi.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

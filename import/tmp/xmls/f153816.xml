@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.ITI.157.153816.10</dc:identifier>
+<dc:identifier2>32.ITI.32160.153816</dc:identifier2>
+<dc:creator>OT-lIsle-Jourdain</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>VOIE VERTE DE L'ISLE-JOURDAIN</dc:title>
+
+<tif:ControlledVocabulary code="02.01.07.01.01">Cyclotouriste</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.07.01.05">Pédestre</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.07.01.901">VTT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.07.01.911">VTT électrique</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.07.01.912">Vélo électrique</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.07.01.915">Voie verte</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.11">TerraGers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.07">Itinéraires touristiques</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.11">TerraGers</tif:Classification>
+<dcterms:created>2016-06-01</dcterms:created>
+<dcterms:modified>2017-03-21</dcterms:modified>
+<dcterms:valid>2035-12-31</dcterms:valid>
+<dcterms:available>2014-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1464732000</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.27" libelle="Point d'information" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>Office de Tourisme de la Gascogne Toulousaine</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Au bord du lac</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 25 57</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://tourisme-gascognetoulousaine.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.901" libelle="Facebook (URL)" xml:lang="fr"><tif:Coord>https://www.facebook.com/gascognetoulousaine/</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027442.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/J.M. Verdié</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0021076.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/Gérard Vilminot</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0027456.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.02" libelle="Texte" xml:lang="fr"><URL>http://medias.cdtl32.com/itineraires/gpx/offices/Cirkwi-Sur_l_itineraire_de_l_A380.gpx</URL>
+<tif:Nom xml:lang="fr">GPX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>application/octetstream</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0055988.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/C. Pistre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0067356.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/C. Pistre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0067363.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/C. Pistre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#6</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0083844.jpg</URL>
+<tif:Nom xml:lang="fr">VOIE VERTE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/CDT32/C. Pistre</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0079568.jpg</URL>
+<tif:Nom xml:lang="fr">A380 - L'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal Gascogne Toulousaine/Y SENECAL</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#7</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">Point de départ de la piste cyclable</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.073863</tif:Longitude>
+<tif:Latitude>43.615245</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+
+
+
+
+
+
+
+
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.02" libelle="Carte / Plan" lang="FR">&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1KXmlv8whSaBNYqHSDJCcxiyYLVg&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Cette Voie Verte découle de la création d&amp;#8217;un itinéraire à grand gabarit pour acheminer par la route le fuselage et la voilure de l&amp;#8217;A380 jusqu&amp;#8217;à l&amp;#8217;usine de Toulouse. Il a fallu aménager les routes, et en créer de nouvelles dédiées à l&amp;#8217;A380, mais autorisées aux piétons et aux cyclistes: de vraies Voies Vertes !
+
+Il y en a plusieurs dans le Département du Gers. Nous décrivons ici un tronçon qui est une véritable Voie Verte de 5km entre l&amp;#8217;Isle-Jourdain et Ste-Livrade. Elle peut se prolonger par un itinéraire sur petites routes jusqu&amp;#8217;à Ségoufielle, où l&amp;#8217;on rejoint l&amp;#8217;autre Voie Verte de 21km qui va jusqu&amp;#8217;à l&amp;#8217;usine de Cornebarrieu, près de Toulouse.
+
+Le parcours : 
+ 
+Le départ de la piste cyclable se situe en face de l'Office de Tourisme côté petit lac. 
+Suivez la piste qui vous fait passez sous la voie ferrée. Arrivez à un croisement, prendre la direction de Sainte-Livrade sur votre droite en suivant l&amp;#8217;itinéraire à grand gabarit. 
+Vous suivez la vallée de la Save, au pied des coteaux, avec d&amp;#8217;agréables paysages. Vous passez devant deux pigeonniers, isolés en plein champ, caractéristiques de cette région qui en possède beaucoup. Puis devant un golf. À la fin de la piste cyclable, l&amp;#8217;itinéraire à grand gabarit continue sur une petite route, avec bandes cyclables, qui traverse la Save, et rejoint la D9 après Ségoufielle, à la limite de la Haute-Garonne. 
+En traversant cette route, vous rejoignez la piste cyclable qui commence à l&amp;#8217;ancienne gare de Mérenvielle et est aménagée parallèlement à la N224 et à la D17. 
+Avant le village de Mondonville, prenez une route sur votre droite, créée spécialement pour le convoi de l'A380, en direction de Cornebarrieu.
+Suivez les indications pour arriver à l'usine d'assemblage.
+</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+<tif:Itineraires><tif:DetailItineraire type="18.02.01" libelle="Circuit" xml:lang="fr"><tif:Denivele type="18.01.01" libelle="Cumulé" xml:lang="fr">0</tif:Denivele>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">32.00</tif:Distance>
+<tif:AltitudeMini>1970-01-01</tif:AltitudeMini>
+<tif:AltitudeMaxi>1970-01-01</tif:AltitudeMaxi>
+<tif:Duree unite="01.03.03.03" libelle="heure" xml:lang="fr">2</tif:Duree>
+<tif:DescriptionItineraire xml:lang="fr">Durée à vélo</tif:DescriptionItineraire>
+</tif:DetailItineraire>
+</tif:Itineraires>
+</tif:OI>

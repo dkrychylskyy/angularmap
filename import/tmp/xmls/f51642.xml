@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.RES.157.000979.10</dc:identifier>
+<dc:identifier2>32.RES.32160.51642</dc:identifier2>
+<dc:creator>0</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>RESTAURANT HOSTELLERIE DU LAC</dc:title>
+
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.04">Informations partielles (Non Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.01.05">Cuisine traditionnelle</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.02.04">Hotel-restaurant</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.03.08">Cuisine gastronomique</tif:ControlledVocabulary>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.01.13">Restauration</tif:Classification>
+<dcterms:created>2007-09-12</dcterms:created>
+<dcterms:modified>2016-06-18</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1383778800</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr"><tif:RaisonSociale>RESTAURANT HOSTELLERIE DU LAC</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Avenue du corps Franc Pommies</tif:Adr1>
+<tif:Adr2>Route d'Auch</tif:Adr2>
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Didier</tif:Prenom>
+<tif:Nom>RABASSA</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>RESTAURANT HOSTELLERIE DU LAC</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Avenue du corps Franc Pommies</tif:Adr1>
+<tif:Adr2>route d'Auch</tif:Adr2>
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 04 37</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>hotel-du-lac@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 03 91</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>hotel-du-lac@wanadoo.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr"><tif:RaisonSociale>RESTAURANT HOSTELLERIE DU LAC</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Avenue du corps Franc Pommies</tif:Adr1>
+<tif:Adr2>Route d'Auch</tif:Adr2>
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Didier</tif:Prenom>
+<tif:Nom>RABASSA</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+<tif:SIRET>78012365900010</tif:SIRET>
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028442.jpg</URL>
+<tif:Nom xml:lang="fr">RESTAURANT</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hostellerie du Lac</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028441.jpg</URL>
+<tif:Nom xml:lang="fr">RESTAURANT</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hostellerie du Lac</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0028440.jpg</URL>
+<tif:Nom xml:lang="fr">RESTAURANT</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hostellerie du Lac</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.02.02.28" libelle="Logis" xml:lang="fr"><tif:Classement type="06.02.02.28.902" xml:lang="fr">2 cocottes</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.02" libelle="Fermé" xml:lang="fr">
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">HOSTELLERIE DU LAC</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.065845</tif:Longitude>
+<tif:Latitude>43.616147</tif:Latitude>
+<tif:Altitude>116</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">HOSTELLERIE DU LAC</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Fermé le dimanche soir.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">RESTAURANT HOSTELLERIE DU LAC</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>12:00</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+
+
+<tif:Guides><tif:Guide type="06.03.06.11" libelle="Le petit futé" xml:lang="fr">
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.01</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.900" libelle="Ticket Restaurant" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.04" libelle="Carte bleue" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Autres menus</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>17.50</tif:TarifMin>
+<tif:TarifMax>35.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Menu du jour</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>12.90</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>12.90</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.08" libelle="Salles" xml:lang="fr"><tif:Capacite unite="01.03.01.07" libelle="Couvert" classee="N" xml:lang="fr">10</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.08" libelle="Salles" xml:lang="fr"><tif:Capacite unite="01.03.01.18" libelle="Salle" classee="N" xml:lang="fr">1</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+
+
+</tif:Capacites>
+
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="100.05.157" libelle="Type de terrasse" lang="FR">Ombragée</tif:Description>
+<tif:Description type="16.01.09" libelle="Phrase commerciale" lang="FR">Sur les rives du lac de l'Isle Jourdain, l' hôtel vous réserve le meilleur accueil dans la tradition et le bon goût gersois.
+</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">L'Isle Jourdain est une ville au charme de cité médiévale. Située à seulement 30mn de Toulouse, profitez d'un séjour à la campagne dans une ville moderne et en plein développement.
+Dominant le lac, le restaurant de l'Hostellerie du Lac vous accueille dans un cadre verdoyant. 
+Didier Rabassa vous y concoctera une cuisine traditionnelle, copieuse et d'un bon rapport qualité/prix.
+Vous pourrez profiter à volonté de grands buffets d'entrées fraîches et de desserts faits maison dans la salle à la belle cheminée ou sur la terrasse ombragée qui vous permettra d'apprécier la vue sur le lac.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.AR.157.142939.10</dc:identifier>
+<dc:identifier2>32.RES.32160.142939</dc:identifier2>
+<dc:creator>OT-lIsle-Jourdain</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>LA PATATERIE</dc:title>
+
+<tif:ControlledVocabulary code="02.01.100.02">Pas de publication</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.05">Publication web OT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.101.02">Départementale</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.01.09">Restauration à thème</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.02.05">Restaurant</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.13.03.12">Régionales française</tif:ControlledVocabulary>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.01.101">Type de diffusion</tif:Classification>
+<tif:Classification code="02.01.13">Restauration</tif:Classification>
+<dcterms:created>2016-02-26</dcterms:created>
+<dcterms:modified>2016-03-11</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2016-02-26</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>0</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr"><tif:RaisonSociale>LA PATATERIE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>ZAC du Pont Peyron</tif:Adr1>
+<tif:Adr2>Route de Samatan</tif:Adr2>
+<tif:Adr3>RD 634</tif:Adr3>
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 06 62 74</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>LA PATATERIE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>ZAC du Pont Peyrin</tif:Adr1>
+<tif:Adr2>Route de Samatan</tif:Adr2>
+<tif:Adr3>RD 634</tif:Adr3>
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.lapataterie.fr/par-ici-la-pataterie/la-pataterie-lisle-jourdain</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 06 62 74</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0075455.jpg</URL>
+<tif:Nom xml:lang="fr">La Pataterie - L'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/HERRERO</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">Restaurant La Pataterie</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.068476</tif:Longitude>
+<tif:Latitude>43.603370</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">LA PATATERIE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>21:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>22:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>21:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>21:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>21:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>19:00</tif:HoraireDebut>
+<tif:HoraireFin>21:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>11:45</tif:HoraireDebut>
+<tif:HoraireFin>14:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.01" libelle="Individuels" xml:lang="fr"><tif:DetailClient type="10.02.15" libelle="Familles" xml:lang="fr"><tif:Nom>Patate Cannille</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>0</tif:NbPersMin>
+<tif:NbPersMax>0</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+<tif:DetailClient type="10.02.15" libelle="Familles" xml:lang="fr"><tif:Nom>Patate Cannille</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>0</tif:NbPersMin>
+<tif:NbPersMax>0</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+</tif:Clienteles>
+
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.906</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>N</tif:Obligatoire>
+
+
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.04" libelle="Carte bleue" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.900" libelle="Ticket Restaurant" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Pata'Menu : entrée / plat / dessert</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>17.90</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>17.90</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Entrée au choix : assiette de charcuterie ou petite salade de chèvre chaud ou foie gras (1€ de supplément)
+Plat au choix : La Pom'Meurette ou La Pom'Forestière ou Le Patata Burger Le Rustique ou la tartiflette tradition.
+Dessert au chois : 2 profiteroles ou crème brûlée ou Patata café</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.03" libelle="Menu enfant" xml:lang="fr"><tif:Nom xml:lang="fr">Presqu'Grand</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>6.70</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>6.70</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Plats au choix : 6 Frites de poulet ou 3 pépites de Cabillaud panés ou Le Bretzel steak haché ou Presque Grande D'Savoyarde.
+Desserts au choix : Glace 2 boules ou Pom&amp;#8217;potes ou Cornet de glace Smarties ou Trempette chamallows
+</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Pata'Menu : entrée / plat</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>14.50</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>14.50</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Entrée au choix : assiette de charcuterie ou petite salade de chèvre chaud ou foie gras pour 1€ de plus.
+Plat au choix : La Pom'Meurette ou la Pom'Forestière ou la Patata Burger Le Rustique ou la tartiflette tradition.</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.03" libelle="Menu enfant" xml:lang="fr"><tif:Nom xml:lang="fr">Menu Bout'Chou</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>5.70</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>5.70</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Plats au choix : Steak haché (80gr) ou 2 pépites de Cabillaud panés ou 4 Frites de poulet(accompagnement frites) ou la Bout de chou d'Savoyarde.
+Desserts au choix : Glace 2 boules ou Pom&amp;#8217;potes ou Trempette chamallows ou Cornet de glace Smarties
+</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.05.02" libelle="Menu adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Pata'Menu : plat / dessert</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>14.50</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>14.50</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Plat au choix : La Pom'Meurette ou la Pom'Forestière ou la Patata Burger Le Rustique ou la tartiflette tradition.
+Dessert au choix : 2 profiteroles ou crème brûlée ou patata café.</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.64" xml:lang="fr">Parking</tif:Prestation>
+<tif:Nom lang="">Parking</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.01" libelle="Accessibilités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.01.01" xml:lang="fr">Mobilité réduite</tif:Prestation>
+<tif:Nom lang="">Entrée et restaurant</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">Wifi</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.14" xml:lang="fr">Climatisation</tif:Prestation>
+<tif:Nom lang="">Salle de restaurant</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Allez hop&amp;#8230; Tout le monde à la campagne !
+
+Envie de vous retrouver à la campagne le temps d&amp;#8217;un bon repas ?... Au milieu d&amp;#8217;objets rustiques chinés dans des brocantes et entourés de petits détails qui rappellent le bon vieux temps ? Bienvenue à La Pataterie ! Le décor est chaleureux, l&amp;#8217;ambiance champêtre, le spectacle est partout. Vos yeux n&amp;#8217;en reviendront pas et vos papilles non plus.
+
+Ambiance « bonne franquette »
+
+Se retrouver en famille, entre amis pour un grand moment de détente, ou entre collègues le temps d&amp;#8217;un déjeuner ? A La Pataterie, l&amp;#8217;accueil est chaleureux, le service se fait dans la bonne humeur et avec le sourire&amp;#8230;
+
+Installez-vous, soufflez, prenez le temps de choisir ce qui vous fait plaisir et savourez l&amp;#8217;instant !
+
+La pomme de terre dans tous ses états
+
+La Pataterie ne manque pas d&amp;#8217;idées pour accommoder la Samba, cette merveilleuse variété de pomme de terre qui se cuisine à toutes les modes. Fondues, tartiflettes, gratins, salades et autres ripailles&amp;#8230; Des recettes authentiques inspirées de plats typiques de nos régions viennent généreusement garnir toutes les assiettes.
+
+Il se passe toujours quelque chose à La Pataterie
+
+Une nouvelle carte avec des plats de saison, de bons plans, des cadeaux pour les enfants, des promos gourmandes&amp;#8230; A La Pataterie, on a toujours de nouvelles idées pour vous donner envie de venir et de revenir chez nous.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

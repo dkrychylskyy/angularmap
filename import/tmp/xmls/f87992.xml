@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.MEUBL.157.098624.10</dc:identifier>
+<dc:identifier2>32.MEU.32160.87992</dc:identifier2>
+<dc:creator>0</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>HAMEAU DU LAC </dc:title>
+
+<tif:ControlledVocabulary code="02.01.04.01.02">Meublés et Gîtes</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:Classification code="02.01.04">Hébergement locatif</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<dcterms:created>2006-11-21</dcterms:created>
+<dcterms:modified>2017-05-09</dcterms:modified>
+<dcterms:valid>2017-12-31</dcterms:valid>
+<dcterms:available>2016-01-01</dcterms:available>
+</tif:DublinCore>
+
+
+<tif:Contacts><tif:DetailContact type="04.03.33" libelle="Réservation/Paiement en ligne" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Au bord du Lac</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>0562072557</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://reservation-clevacances.for-system.com/f58570_fr-.aspx?Param/CodeOs=OSMB-58570-2&amp;Globales/ListeIdFournisseur=58570</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Au bord du Lac</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>L'Isle Jourdain</tif:Prenom>
+<tif:Nom>OFFICE DE TOURISME</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>0562072481</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>0562072557</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Au bord du Lac</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>0562072481</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>0562072557</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales>
+
+
+
+<tif:NumAgrementLicence>32MS00510</tif:NumAgrementLicence>
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b6.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#7</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b5.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#6</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b4.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b3.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b2.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b1.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://cdn.clevacances.com/images/locations/32/HLOMIP032CM00510/b0.jpg</URL>
+
+
+<tif:TailleRessource unite="">0</tif:TailleRessource>
+<tif:Largeur unite="">0</tif:Largeur>
+<tif:Hauteur unite="">0</tif:Hauteur>
+<tif:Duree unite="">0</tif:Duree>
+
+
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.03.02.02" libelle="Locations CléVacances" xml:lang="fr"><tif:Classement type="06.03.02.02.02" xml:lang="fr">2 clés</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+<tif:NumeroClassement>32MS00510</tif:NumeroClassement>
+<tif:Theme xml:lang="fr">peche</tif:Theme>
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr">
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr">
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.0706903491211506</tif:Longitude>
+<tif:Latitude>43.61912425489213</tif:Latitude>
+
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+
+
+
+
+
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.11" libelle="Chèques Vacances" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.04.06" libelle="Semaine (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">4 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>200.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.04.04" libelle="Nuitée (meublé)" xml:lang="fr"><tif:Nom xml:lang="fr">4 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>65.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.07" libelle="Personnes" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="O" xml:lang="fr">4</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr">
+<tif:Superficie unite="01.03.04.01" libelle="mètre carré" classee="O" xml:lang="fr">25.00</tif:Superficie>
+</tif:CapacitesGlobales>
+
+<tif:CapacitesPrestations><tif:DetailCapacitePrestation type="14.02.926" libelle="studio" xml:lang="fr">
+<tif:Superficie unite="01.03.04.01" libelle="mètre carré" classee="O" xml:lang="fr"></tif:Superficie>
+
+</tif:DetailCapacitePrestation>
+</tif:CapacitesPrestations>
+
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.123" xml:lang="fr">Terrasse</tif:Prestation>
+
+
+
+
+<tif:Payant>N</tif:Payant>
+
+
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.17" xml:lang="fr">Cuisine coin cuisine</tif:Prestation>
+
+
+
+
+<tif:Payant>N</tif:Payant>
+
+
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.41" xml:lang="fr">Lave linge</tif:Prestation>
+
+
+
+
+<tif:Payant>N</tif:Payant>
+
+
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.912" xml:lang="fr">Location de Studios</tif:Prestation>
+
+
+
+
+<tif:Payant>N</tif:Payant>
+
+
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="GB">In a collective set renovated by 3 holiday rentals this studio in border of the leisure center is ideal for your stay in Gascogne toulousaine. Cooking / stay, 1 sofa bed 2 places(squares), 2 bunk beds, shower-room, electric heating, bring down covering, garden furniture. Nearby, swimming pool, tennis, windsurfing board, lake, nautical cable park, golf, mini-golf, (fishing). In 500m, the market on Saturdays. Situated 44km of Auch and 34km of Toulouse.</tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Dans un ensemble collectif rénové de 6 locations de vacances ce studio en bordure de la  base de loisirs est idéal pour votre séjour en Gascogne Toulousaine. Cuisine/séjour, 1 canapé 2 places, lits superposés, salle d'eau, chauffage électrique, terrasse couverte, salon de jardin. A proximité,  piscine, tennis,planche à voile,baignade,lac, téléski-nautique, golf,mini-golf,pêche. A 500m,marché le samedi. A 44km d'auch et 34km de Toulouse.
+</tif:Description>
+<tif:Description type="100.05.44" libelle="Descriptif commercial" lang="FR">Dans un ensemble collectif rénové de 6 locations de vacances ce studio en bordure de la  base de loisirs est idéal pour votre séjour en Gascogne Toulousaine. Cuisine/séjour, 1 canapé 2 places, lits superposés, salle d'eau, chauffage électrique, terrasse couverte, salon de jardin. A proximité,  piscine, tennis,planche à voile,baignade,lac, téléski-nautique, golf,mini-golf,pêche. A 500m,marché le samedi. A 44km d'auch et 34km de Toulouse.
+</tif:Description>
+<tif:Description type="100.05.44" libelle="Descriptif commercial" lang="GB">In a collective set renovated by 3 holiday rentals this studio in border of the leisure center is ideal for your stay in Gascogne toulousaine. Cooking / stay, 1 sofa bed 2 places(squares), 2 bunk beds, shower-room, electric heating, bring down covering, garden furniture. Nearby, swimming pool, tennis, windsurfing board, lake, nautical cable park, golf, mini-golf, (fishing). In 500m, the market on Saturdays. Situated 44km of Auch and 34km of Toulouse.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

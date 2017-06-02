@@ -1,0 +1,17 @@
+{
+  "name": "ngmap",
+  "version": "1.0.0",
+  "description": "Angular Map into Drupal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dkrychylskyy",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

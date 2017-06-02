@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.MUSEE.157.000016.10</dc:identifier>
+<dc:identifier2>32.PCU.32160.49911</dc:identifier2>
+<dc:creator>0</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>MUSÉE D'ART CAMPANAIRE</dc:title>
+
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.03">Informations complètes (Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.11.04.02">Musée</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.11.06.14">XIXe siècle</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.11.07.16">Histoire</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.11.07.25">Sciences et techniques</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.11.900.05">Chemin de St Jacques</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.11.903.02">Par temps de pluie</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.01">Le petit d'artagnan©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.04">Passeport privilège</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.12">Manuel de ventes</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.19">Patrimoine et Tourisme</tif:ControlledVocabulary>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.01.11">Patrimoine culturel</tif:Classification>
+<tif:Classification code="02.100.01">Le petit d'artagnan©</tif:Classification>
+<tif:Classification code="02.100.04">Passeport privilège</tif:Classification>
+<tif:Classification code="02.100.12">Manuel de ventes</tif:Classification>
+<tif:Classification code="02.101.19">Patrimoine et Tourisme</tif:Classification>
+<dcterms:modified>2017-05-10</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1408572000</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr"><tif:RaisonSociale>MAIRIE DE L'ISLE JOURDAIN</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Place de l'Hôtel de ville</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>musee.campanaire@mairie-islejourdain.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.34" libelle="Service commercial" xml:lang="fr"><tif:RaisonSociale>MUSÉE CAMPANAIRE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32310</tif:CodePostal>
+<tif:Commune code="32459">Valence-sur-Baïse</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>Juliette et Anne</tif:Prenom>
+<tif:Nom>MONANGE et MANCEAU</tif:Nom>
+<tif:Fonction xml:lang="fr">Service Médiation culturelle</tif:Fonction>
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>amanceau@gers.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 28 74 13</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.03" libelle="Minitel" xml:lang="fr"><tif:Coord>jmonange@gers.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>MUSEE D'ART CAMPANAIRE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+<tif:Adr2>Place de l'Hôtel de ville</tif:Adr2>
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 87 09</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>mhue@gers.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 30 01</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.mairie-islejourdain.com/fr/musee-art-campanaire.asp</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>mhue@gers.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.10" libelle="Conservateur" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Conservateur Départemental du Gers</tif:Adr1>
+<tif:Adr2>Abbaye de Flaran</tif:Adr2>
+
+<tif:CodePostal>32310</tif:CodePostal>
+<tif:Commune code="32459">Valence-sur-Baïse</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Michel</tif:Prenom>
+<tif:Nom>HUE</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 28 97 76</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>mhue@gers.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 28 50 19</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.03" xml:lang="fr">Public</tif:ModeGestion>
+
+
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0015660.jpg</URL>
+<tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Conservation du Patrimoine du Gers</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0017723.jpg</URL>
+<tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Conservation du Patrimoine du Gers/D. Martin</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0017724.jpg</URL>
+<tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Conservation du Patrimoine du Gers</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0004668.jpg</URL>
+<tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Conservation du Patrimoine du Gers</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0015661.jpg</URL>
+<tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Conservation du Patrimoine du Gers</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.04.02.900" libelle="Musée de France" xml:lang="fr">
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.02" libelle="Fermé" xml:lang="fr">
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.0819762</tif:Longitude>
+<tif:Latitude>43.6129003</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+<tif:Environnements><tif:DetailEnvironnement type="08.02.03.12" libelle="En ville" xml:lang="fr"><tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">0.00</tif:Distance>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:ObservationDetailEnvironnement xml:lang="fr">Accès direct via place de l'Hôtel de Ville. Perron et portique.</tif:ObservationDetailEnvironnement>
+</tif:DetailEnvironnement>
+</tif:Environnements>
+
+<tif:Acces><tif:DetailAcces type="08.02.06.06" libelle="Gare Routière" xml:lang="fr"><tif:Nom xml:lang="fr">L'ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">30.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.02" libelle="Autoroute" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">30.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.03" libelle="Gare Ferroviaire" xml:lang="fr"><tif:Nom xml:lang="fr">L'ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+<tif:ObservationDetailAcces xml:lang="fr">Accès direct via Place de l'Hôtel de Ville. Perron et portique.</tif:ObservationDetailAcces>
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-12-04</tif:DateDebut>
+<tif:DateFin>2016-12-04</tif:DateFin>
+
+<tif:Jours>
+
+
+
+
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-05-01</tif:DateDebut>
+<tif:DateFin>2016-05-01</tif:DateFin>
+
+<tif:Jours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-07-03</tif:DateDebut>
+<tif:DateFin>2016-07-03</tif:DateFin>
+
+<tif:Jours>
+
+
+
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-08-01</tif:DateDebut>
+<tif:DateFin>2016-08-07</tif:DateFin>
+
+<tif:Jours>
+
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-09-15</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-11-06</tif:DateDebut>
+<tif:DateFin>2016-11-06</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-06-15</tif:DateDebut>
+<tif:DateFin>2014-09-14</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>18:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>18:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>18:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>18:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>18:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>18:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSEE D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-15</tif:DateDebut>
+<tif:DateFin>2014-06-14</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:30</tif:HoraireDebut>
+<tif:HoraireFin>17:30</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-15</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.01" libelle="Fermeture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.01" libelle="Fermeture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉEN D'ART CAMPANAIRE</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">Ouverture le dimanche uniquement le premier dimanche du mois de 10h à 12h et de 14h à 18h</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-01-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.01" libelle="Fermeture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.01" libelle="Fermeture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-09-04</tif:DateDebut>
+<tif:DateFin>2016-09-04</tif:DateFin>
+
+<tif:Jours>
+
+
+
+
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-06-05</tif:DateDebut>
+<tif:DateFin>2016-06-05</tif:DateFin>
+
+<tif:Jours>
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+
+
+
+
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">MUSÉE EUROPÉËN D'ART CAMPANAIRE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-10-02</tif:DateDebut>
+<tif:DateFin>2016-10-02</tif:DateFin>
+
+<tif:Jours>
+
+
+
+
+
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>14:00</tif:HoraireDebut>
+<tif:HoraireFin>18:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>10:00</tif:HoraireDebut>
+<tif:HoraireFin>12:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr"><tif:DetailClient type="10.02.26" libelle="Tout public" xml:lang="fr">
+<tif:GroupeRef>O</tif:GroupeRef>
+<tif:NbPersMin>50</tif:NbPersMin>
+<tif:NbPersMax>10</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.09" libelle="Visite" xml:lang="fr"><tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.900</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.905</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.02</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.01</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.08</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>N</tif:Obligatoire>
+
+
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Adulte: 4,50€ - Gratuit jusqu'à 18 ans.
+Offre privilège: adulte : 3€</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.69" libelle="Visite libre groupe adulte" xml:lang="fr"><tif:Nom xml:lang="fr">à partir de 10 personnes</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>3.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.63" libelle="Visite guidée adulte individuel" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>3.50</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2015-01-01</tif:DateDebut>
+<tif:DateFin>2015-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Adulte: 4,50€ - Enfant : gratuit jusqu'à 18 ans.
+
+Offre privilège: adulte - 3€
+(Offre limitée à 1 personne par Passeport)
+
+Petit cadeau souvenir offert lors du 3ème tampon (tampons réalisés à votre demande dans les sites Patrimoine et Tourisme en Gascogne)</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.67" libelle="Visite libre adulte individuel" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>4.50</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.68" libelle="Visite libre enfant individuel" xml:lang="fr"><tif:Nom xml:lang="fr">étudiant</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>2.00</tif:TarifStandard>
+<tif:TarifMin>2.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>2.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.67" libelle="Visite libre adulte individuel" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>4.50</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Adulte: 4,50€ - Enfant : gratuit jusqu'à 18 ans.
+
+Offre privilège: adulte - 3€
+(Offre limitée à 1 personne par Passeport)
+
+Petit cadeau souvenir offert lors du 3ème tampon (tampons réalisés à votre demande dans les sites Patrimoine et Tourisme en Gascogne) </tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.01" libelle="Adulte" xml:lang="fr"><tif:Nom xml:lang="fr">Entrée adulte</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>4.50</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>4.50</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.24" libelle="Etudiant" xml:lang="fr"><tif:Nom xml:lang="fr">Entrée étudiant</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>2.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>2.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Adulte: 4,50€ - Enfant : gratuit jusqu'à 18 ans.
+
+Offre privilège: adulte - 3€
+
+Offre limitée à 1 personne par Passeport. </tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.12" libelle="Demandeur d'emploi" xml:lang="fr"><tif:Nom xml:lang="fr">Entrée demandeur d'emploi</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>2.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>2.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.36" libelle="Groupe" xml:lang="fr"><tif:Nom xml:lang="fr">Entrée visite guidée</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>3.50</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>3.50</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">à partir de 10 adultes</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.13" libelle="Enfant" xml:lang="fr"><tif:Nom xml:lang="fr">Entrée enfant (à partir de 10 ans)</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>2.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>2.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.36" libelle="Groupe" xml:lang="fr"><tif:Nom xml:lang="fr">Entrée visite non guidée</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>3.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>3.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">à partir de 10 adultes</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Adulte: 4,50€ - Enfant : gratuit jusqu'à 18 ans.
+
+Offre privilège: adulte - 3€
+(Offre limitée à 1 personne par Passeport)</tif:DescriptionTarif>
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.73" libelle="Réduction" xml:lang="fr"><tif:Nom xml:lang="fr">OFFRE PASSEPORT</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2018-01-01</tif:DateDebut>
+<tif:DateFin>2018-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Adulte: 4,50€ - Enfant : gratuit jusqu'à 18 ans.
+
+Offre privilège: adulte - 3€
+(Offre limitée à 1 personne par Passeport)</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.43" xml:lang="fr">Librairie</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.16" xml:lang="fr">Boutique</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.02" libelle="Activités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.02.14" xml:lang="fr">Conférences</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.02.20" xml:lang="fr">Expositions temporaires</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.64" xml:lang="fr">Parking</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.131" xml:lang="fr">WC publics</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.97" xml:lang="fr">Salle de projection</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.100.04" libelle="Passeport privilège" lang="FR">Une riche collection d'objets rares et originaux sur le thème campanaire : cloches et grelots, sonnailles et subrejougs, gongs et carillons, horloges monumentales. 
+1 000 objets des 5 continents sur 5000 ans. 
+Expositions temporaires internationales. </tif:Description>
+<tif:Description type="16.02.900" libelle="Editions papier CDTL" lang="FR">Situé dans les anciennes halles du XIX°s., le Musée d'Art Campanaire est unique en son genre en Europe.
+Il présente plus de mille objets relatifs à l'art campanaire, dont le célèbre carillon de la Bastille (classé Monument Historique). Cloches, sonnailles ou carillons viennent des cinq continents et couvrent quatre millénaires de savoir-faire technique ou artistique. </tif:Description>
+<tif:Description type="16.100.01" libelle="Le petit d'artagnan" lang="FR">Venez écouter les différents sons de cloches, carillons (dont celui de la Bastille, objet phare du musée), sonnailles et grelots du Musée Campanaire. Situé dans une ancienne halle, cet espace muséographique propose aux visiteurs de partir à la découverte des objets sonores, signes et signaux qui ont rythmé la vie de l'homme dans toutes les cultures et sur tous les continents. Jeu &quot;l'Isle aux trésors&quot; avec livret de découverte adapté à divers âges. </tif:Description>
+<tif:Description type="16.02.09" libelle="Informations complémentaires" lang="FR">Inauguré en 1994 dans les anciennes halles du XIXème siècle, le Musée d'Art Campanaire de l'Isle-Jourdain est un musée municipal, placé sous la tutelle scientifique de la direction des Musées de France, unique en son genre en Europe.
+Six espaces d'exposition permanente, sur deux niveaux, présentent plus de mille objets relatifs à l'art campanaire, dont le célèbre carillon de la Bastille (classé Monument historique). Cloches, sonnailles ou carillons viennent des cinq continents et couvrent quatre millénaires de savoir-faire techniques ou artistiques. Un auditorium et un espace d'exposition temporaire complètent cet ensemble original situé à proximité de Toulouse, aux portes du département du Gers.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">À seulement 30mn de Toulouse, dans l'est du Gers, le Musée d'Art Campanaire de l'Isle-Jourdain est un musée municipal, placé sous la tutelle scientifique de la direction des Musées de France. 
+Unique en son genre en Europe, le musée a été inauguré en 1994 dans les anciennes halles du XIXe siècle de la bastide. 
+Six espaces d'exposition permanente, sur deux niveaux, présentent plus de mille objets relatifs à l'art campanaire, dont le célèbre carillon de la Bastille (classé Monument historique). Cloches, sonnailles, grelots, subrejougs, horloges monumentales ou carillons viennent des cinq continents et couvrent quatre millénaires de savoir-faire techniques ou artistiques. Les visiteurs partent alors à la découverte des objets sonores, signes et signaux qui ont rythmé la vie de l&amp;#8217;homme dans toutes les cultures et sur tous les continents.
+Un auditorium et un espace d'exposition temporaire complètent cet ensemble original.</tif:Description>
+<tif:Description type="16.100.01" libelle="Le petit d'artagnan" lang="FR">Venez écouter les différents sons de cloches, carillons (dont celui de la Bastille, objet phare du musée), sonnailles et grelots du Musée Campanaire.
+
+Situé dans une ancienne halle, cet espace muséographique propose aux visiteurs de partir à la découverte des objets sonores, signes et signaux qui ont rythmé la vie de l'homme dans toutes les cultures et sur tous les continents. 
+
+Le Petit + : Jeu &quot;l'Isle aux trésors&quot; avec livret de découverte adapté aux divers âges.</tif:Description>
+<tif:Description type="16.02.902" libelle="Descriptif portrait" lang="FR">
+
+
+
+
+
+
+
+
+</tif:Description>
+<tif:Description type="16.100.13" libelle="Manuel de ventes" lang="FR">L'Art Campanaire est l'art des cloches: leur fabrication, les traditions et les pratiques qui s'y rattachent, leur histoire. 
+
+Le musée présente une riche collection d'objets sonores rares et originaux sur le thème campanaire : cloches et grelots, sonnailles et subrejougs, gongs et carillons, horloges monumentales. 1000 objets des cinq continents sur cinq millénaires.
+
+Expositions temporaires internationales.
+Concerts de carillon.
+Auditorium et passerelle sonore.
+Visites guidées pour les groupes sur réservation.
+Jeu-découverte pour le jeune public. 
+
+Le + : Gratuités accordées au guide accompagnant et au chauffeur.
+Jeu-découverte pour le jeune public.</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.03" libelle="Complément" xml:lang="fr"><tif:Description type="16.02.22" libelle="Visites" lang="FR">Supports de visite : (Panneaux d'informations)
+
+Durée moyenne de visite : 1h30</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

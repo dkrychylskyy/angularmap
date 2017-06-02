@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.ITI.157.172967.10</dc:identifier>
+<dc:identifier2>32.ITI.32160.172967</dc:identifier2>
+<dc:creator>OT-lIsle-Jourdain</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>SUR L'ITINÉRAIRE DE L'A380</dc:title>
+<dc:description>Ce circuit de 12.2 km, facile d'accès, longe en grande partie l'itinéraire de l'A380 sur une piste cyclable sécurisé, jusqu'à Ségoufielle. Vous apercevrez percher sur un vallon, un pigeonnier de type gascon et découvrirez cet ancien castelnau, Ségoufielle, dont le bâti en briques rouges de type toulousain fait sa caractéristique...
+</dc:description>
+<tif:ControlledVocabulary code="02.01.07.01.01">Cyclotouriste</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.07.01.912">Vélo électrique</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.11">TerraGers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.07">Itinéraires touristiques</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.11">TerraGers</tif:Classification>
+<dcterms:created>2016-05-28</dcterms:created>
+<dcterms:modified>2017-03-09</dcterms:modified>
+<dcterms:valid>2035-12-31</dcterms:valid>
+<dcterms:available>2017-03-08</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1464386400</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>Office de Tourisme de la Gascogne Toulousaine</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Au bord du lac</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://tourisme-gascognetoulousaine.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 25 57</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.901" libelle="Facebook (URL)" xml:lang="fr"><tif:Coord>https://www.facebook.com/gascognetoulousaine/</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>ot-gascognetoulousaine@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.27" libelle="Point d'information" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0094222.jpg</URL>
+<tif:Nom xml:lang="fr">Ségoufielle</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0094221.jpg</URL>
+<tif:Nom xml:lang="fr">Golf Las Martines -  L'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0094219.jpg</URL>
+<tif:Nom xml:lang="fr">A380- L'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal Gascogne Toulousaine</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0094218.jpg</URL>
+<tif:Nom xml:lang="fr">Paysage - L'Isle-Jourdain</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/OIS</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0094220.jpg</URL>
+<tif:Nom xml:lang="fr">Pigeonnier</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine/B TANCOGNE</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.02" libelle="Texte" xml:lang="fr"><URL>http://medias.cdtl32.com/itineraires/gpx/offices/Cirkwi-Sur_l_itinéraire_de_l_A380.gpx</URL>
+<tif:Nom xml:lang="fr">GPX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>application/octetstream</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/OT Intercommunal de la Gascogne Toulousaine</tif:Copyright>
+
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">Point de départ du sentier</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.073863</tif:Longitude>
+<tif:Latitude>43.615245</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+
+<tif:Clienteles><tif:DetailClienteles type="10.01.01" libelle="Individuels" xml:lang="fr"><tif:DetailClient type="10.02.15" libelle="Familles" xml:lang="fr"><tif:Nom>SENTIER PÉDAGOGIQUE LA GAVARRE</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>0</tif:NbPersMin>
+<tif:NbPersMax>0</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+</tif:Clienteles>
+
+
+
+
+
+
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.02.02" libelle="Carte / Plan" lang="FR">&lt;iframe src=&quot;https://www.google.com/maps/d/u/1/embed?mid=1ZccuhapjMB6JAgYc6OM1IJkeSIY&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Départ sur le parking face à l'Office de Tourisme. Empruntez la piste cyclable en bordure du petit lac, vers les terrains de tennis jusqu'à Ségoufielle. Sur cette voie se trouve sur votre gauche un pigeonnier de type gascon (à 4 pentes)perché sur un vallon. Puis plus loin sur votre droite, le golf Las Martines (9 trous). Entrez dans Ségoufielle, la bâti en brique rouge de type toulousain fait la caractéristique de cet ancien Castelnau. Ce village a pour principal monument l'église Saint-Pierre. Son clocher octogonal, couronné d'une balustrade abrite un carillon de dix cloches. Au cœur du village, prenez à droite puis au bout encore à droite. Vous empruntez alors la D9. A hauteur du premier rond point vous trouverez des tables de pique-nique pour faire une pause. Continuez votre route sur la D9 jusqu'au centre ville de L'Isle-Jourdain. Au 2nd feux tricolores prenez à gauche jusqu'à la piscine puis à droite. Retour à la base de loisirs.
+
+</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+<tif:Itineraires><tif:DetailItineraire type="18.02.01" libelle="Circuit" xml:lang="fr"><tif:Denivele type="18.01.01" libelle="Cumulé" xml:lang="fr">0</tif:Denivele>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">12.20</tif:Distance>
+<tif:AltitudeMini>1970-01-01</tif:AltitudeMini>
+<tif:AltitudeMaxi>1970-01-01</tif:AltitudeMaxi>
+<tif:Duree unite="01.03.03.03" libelle="heure" xml:lang="fr">2</tif:Duree>
+
+</tif:DetailItineraire>
+</tif:Itineraires>
+</tif:OI>

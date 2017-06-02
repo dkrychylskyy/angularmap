@@ -1,0 +1,54 @@
+<?php
+
+/**
+*Implements hook_menu()
+*/
+function angularmap_menu() {
+  $items['map'] = array(
+    'title' => 'Angular Map',
+    'page callback' => 'angularmap_page',
+    'access arguments' => array('access content'),
+  );
+
+  return $items;
+}
+
+
+/**
+*hook_theme()
+*создание темы и подключение шаблона из файла ngMap.tpl.php
+*/
+function angularmap_theme() {
+    return array(
+        'angularmap_theme' => array(
+            'template' => 'angularmap-tpl',
+        ),
+    );
+}
+
+
+/**
+* All ngMap callback
+* определненее страницы как таковой
+* подключение библиотеки angular
+* возвращает тему
+*/
+function angularmap_page() {
+  // Set the path
+  $path = drupal_get_path('module', 'angularmap');
+
+  // Load angular
+  drupal_add_library('angularjs', 'angularjs');
+
+  // Load the app
+  drupal_add_js($path . '/js/angularmap.gen.js');// в этом месте вставляется angular app на страницу Drupal
+
+  drupal_add_css($path . '/css/bootstrap.css');
+
+  // Load ngmap module
+//   drupal_add_js($path . '/node_modules/ngmap/build/scripts/ng-map.min.js');
+//   drupal_add_js("http://maps.google.com/maps/api/js?key=AIzaSyCdDw13rwjNLU2_GptoynzK4Z6BTJ76HnA");
+
+  // Return the HTML template
+  return theme ('angularmap_theme');
+}

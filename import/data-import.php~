@@ -1,0 +1,235 @@
+<?php
+ini_set('memory_limit', '768M');
+print("Starting!\n");
+
+global $user;
+$original_user = $user;
+$user = user_load(1);
+
+$datas = array();
+
+function get_files() {
+	system("rm -f import/tmp/zips/*");
+	system("rm -f import/tmp/xmls/*");
+
+	$files = array(
+			// Restauration :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=323",
+
+			// Organismes :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=322",
+
+			// Patrimoine culturel :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=321",
+
+			// Loisirs :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=320",
+
+			// HPA :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=319",
+
+			// Hôtellerie :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=318",
+
+			// Hébergements locatifs :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=317",
+
+			// Dégustation :
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=316",
+
+			// Fêtes et manifestations : (de juin à décembre)
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=324",
+
+			// Patrimoine naturel
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=377",
+
+			//
+			"http://JNOV:MY3yLUVaME@www.agit.tourisme-gers.com/index.php?sAuthType=Basic&tg=addon/tourisme/export&id=382",
+		);
+
+	foreach ($files as $file) {
+		print("   ==== Grabbing $file ====\n");
+		unlink("import/tmp/zips/f.zip");
+		system("wget -q -O import/tmp/zips/f.zip '".$file."'");
+
+		if (file_exists("import/tmp/zips/f.zip")) {
+			$zip = new ZipArchive;
+			if ($zip->open("import/tmp/zips/f.zip")) {
+				$zip->extractTo("import/tmp/xmls/");
+			}
+
+		}
+	}
+}
+
+function parse_xml($f) {
+	global $datas;
+
+	$xml = new SimpleXMLElement(file_get_contents("import/tmp/xmls/$f"));
+
+	$data = new stdClass;
+	$data->id = $xml->xpath("/tif:OI/tif:DublinCore/dc:identifier");
+	$data->name = $xml->xpath("/tif:OI/tif:DublinCore/dc:title");
+	$data->deschtml = $xml->xpath("/tif:OI/tif:DescriptionsComplementaires/tif:DetailDescriptionComplementaire[@type='16.01.10']/tif:Description");
+	$data->desc = $xml->xpath("/tif:OI/tif:DescriptionsComplementaires/tif:DetailDescriptionComplementaire/tif:Description");
+	$cat = $xml->xpath("/tif:OI/tif:DublinCore/tif:Classification");
+	$scat = $xml->xpath("/tif:OI/tif:DublinCore/tif:ControlledVocabulary");
+	$data->imgs = $xml->xpath("/tif:OI/tif:Multimedia/tif:DetailMultimedia[@type='03.01.01']/URL");
+	$data->lat = $xml->xpath("/tif:OI/tif:Geolocalisations/tif:DetailGeolocalisation/tif:Zone/tif:Points/tif:DetailPoint/tif:Coordonnees/tif:DetailCoordonnees/tif:Latitude");
+	$data->lon = $xml->xpath("/tif:OI/tif:Geolocalisations/tif:DetailGeolocalisation/tif:Zone/tif:Points/tif:DetailPoint/tif:Coordonnees/tif:DetailCoordonnees/tif:Longitude");
+	$data->classement_type = $xml->xpath("/tif:OI/tif:Classements/tif:DetailClassement");
+	$data->classement_val = $xml->xpath("/tif:OI/tif:Classements/tif:DetailClassement/tif:Classement");
+	$data->begin_date = $xml->xpath("/tif:OI/tif:Periodes/tif:DetailPeriode/tif:Dates/tif:DetailDates/tif:DateDebut");
+	$data->end_date = $xml->xpath("/tif:OI/tif:Periodes/tif:DetailPeriode/tif:Dates/tif:DetailDates/tif:DateFin");
+	$data->onlinebooking = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.33']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.05']/tif:Coord");
+
+	$data->tel = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.01']/tif:Coord");
+	if (!$data->tel[0]) $data->tel = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.33']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.01']/tif:Coord");
+	$data->fax = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.02']/tif:Coord");
+	if (!$data->fax[0]) $data->fax = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.33']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.02']/tif:Coord");
+	$data->email = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.04']/tif:Coord");
+	if (!$data->email[0]) $data->email = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.33']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.04']/tif:Coord");
+	$data->url = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.05']/tif:Coord");
+	if (!$data->url[0]) $data->url = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.33']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.05']/tif:Coord");
+	$data->fb = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.901']/tif:Coord");
+	if (!$data->fb[0]) $data->url = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.33']/tif:Adresses/tif:DetailAdresse/tif:Personnes/tif:DetailPersonne/tif:MoyensCommunications/tif:DetailMoyenCom[@type='04.02.901']/tif:Coord");
+	$data->addr1 = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Adr1");
+	$data->addr2 = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Adr2");
+	$data->addr3 = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Adr3");
+	$data->postcode = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:CodePostal");
+	$data->town = $xml->xpath("/tif:OI/tif:Contacts/tif:DetailContact[@type='04.03.14']/tif:Adresses/tif:DetailAdresse/tif:Commune");
+
+	if ($data->begin_date) $data->begin_date = (string)$data->begin_date[0];
+	if ($data->end_date) $data->end_date = (string)$data->end_date[0];
+
+	$data->cat = array();
+	foreach($cat as $c) $data->cat[(string)$c->attributes()->code] = (string)$c;
+
+	$data->scat = array();
+	foreach($scat as $c) $data->scat[(string)$c->attributes()->code] = (string)$c;
+
+	if ($data->classement_type && $data->classement_type[0]) {
+		$data->ctype = array(
+			id => (string)$data->classement_type[0]->attributes()->type,
+			name => (string)$data->classement_type[0]->attributes()->libelle
+			);
+	}
+
+	if ($data->classement_val && $data->classement_val[0]) {
+		$data->cval = (string)$data->classement_val[0];
+	}
+
+	if ($data->deschtml[0]) $data->desc = $data->deschtml;
+
+	$datas[(string)$data->id[0]] = $data;
+
+//	print_r($data);
+}
+
+function parse_xmls() {
+	if ($handle = opendir('import/tmp/xmls/')) {
+		while (false !== ($f = readdir($handle))) {
+			if (preg_match("/xml$/", $f)) {
+				echo " * Parsing $f\n";
+				parse_xml($f);
+			}
+		}
+		closedir($handle);
+	}
+}
+
+function import_nodes() {
+	global $datas;
+
+	if (1) {
+	$res = db_query("select entity_id from field_data_field_xmlid where entity_type='node'");
+	while ($row = $res->fetchObject()) {
+		try {
+			print("Unpublish node {$row->entity_id}\n");
+			$node = node_load($row->entity_id);
+			$node->status = 0;
+			$node = node_submit($node);
+			node_save($node);
+		}
+		catch (PDOException $e) {}
+	}
+	}
+
+	print("=== Start\n");
+
+	foreach ($datas as $xmlid => $d) {
+		$nkind = "tif";
+		if ($nkind) {
+			$res = db_query("select entity_id from field_data_field_xmlid where entity_type='node' and field_xmlid_value='{$xmlid}'");
+			if ($res) $row = $res->fetchObject();
+			if (!$row || !$row->entity_id) { $node = new stdClass; $node->nid = NULL; }
+			else {
+				$node = node_load($row->entity_id);
+				print("Loading node to update {$row->entity_id}\n");
+			}
+
+			foreach ($d->imgs as $i => $img) {
+				$dname = preg_replace("/[^a-zA-Z0-9-.]/", "_", (string)$img);
+				print(" Importing image = $img == $dname\n");
+				system("wget -q -O import/tmp/imgs/$dname '".$img."'");
+
+				$ires = db_query("select fid from file_managed where filename='{$dname}'");
+				if ($ires) $irow = $ires->fetchObject();
+				if (!$irow || !$irow->fid) {
+					$drupal_file = file_save_data(file_get_contents("import/tmp/imgs/$dname"), "public://$dname");
+					print("  * New image\n");
+				} else {
+					$drupal_file = file_load($irow->fid);
+					copy("import/tmp/imgs/$dname", "sites/default/files/$dname");
+					print("  * Updating image\n");
+				}
+				if ($i == 0) $node->field_photo_principale[$node->language][0] = get_object_vars($drupal_file);
+				else if ($i <= 5) $node->field_photo_secondaire_1[$node->language][$i-1] = get_object_vars($drupal_file);
+			}
+
+			$node->type = $nkind;
+			$node->language = LANGUAGE_NONE;
+			$node->title = (string)$d->name[0];
+			$node->status = 1;
+			$node->body[$node->language][0]['value'] = html_entity_decode((string)$d->desc[0], ENT_COMPAT | ENT_HTML401, "UTF-8");
+			$node->field_xmlid[$node->language][0]['value'] = $xmlid;
+			if ((string)$d->addr1[0]||(string)$d->addr2[0]||(string)$d->addr3[0]) $node->field_adresse_1[$node->language][0]['value'] = (string)$d->addr1[0] . "\n" . (string)$d->addr2[0] . "\n" . (string)$d->addr3[0];
+			if ((string)$d->postcode[0]) $node->field_code_postal[$node->language][0]['value'] = (string)$d->postcode[0];
+			if ((string)$d->town[0]) $node->field_ville[$node->language][0]['value'] = (string)$d->town[0];
+			if ((string)$d->lat[0]) $node->field_latitude[$node->language][0]['value'] = (string)$d->lat[0];
+			if ((string)$d->lon[0]) $node->field_longitude[$node->language][0]['value'] = (string)$d->lon[0];
+			if ((string)$d->tel[0]) $node->field_t_l_phone[$node->language][0]['value'] = (string)$d->tel[0];
+			if ((string)$d->fax[0]) $node->field_fax[$node->language][0]['value'] = (string)$d->fax[0];
+			if ((string)$d->email[0]) $node->field_email[$node->language][0]['email'] = (string)$d->email[0];
+			if ((string)$d->url[0]) $node->field_url[$node->language][0]['value'] = (string)$d->url[0];
+			if ((string)$d->fb[0]) $node->field_facebook[$node->language][0]['value'] = (string)$d->url[0];
+			if ((string)$d->onlinebooking[0]) $node->field_onlinebooking[$node->language][0]['value'] = (string)$d->onlinebooking[0];
+			$i = 0; foreach($d->cat as $k => $v) {
+				$node->field_categorie[$node->language][$i]['value'] = (string)$v;
+				$node->field_idcat[$node->language][$i++]['value'] = (string)$k;
+			}
+			$i = 0; foreach($d->scat as $k => $v) {
+				$node->field_sous_categorie[$node->language][$i]['value'] = (string)$v;
+				$node->field_idsubcat[$node->language][$i++]['value'] = (string)$k;
+			}
+			if ($d->cval) $node->field_classement_value[$node->language][0]['value'] = (string)$d->cval;
+			if ($d->ctype) {
+				$node->field_classement_type[$node->language][0]['value'] = (string)$d->ctype['id'];
+				$node->field_classement_label[$node->language][0]['value'] = (string)$d->ctype['name'];
+			}
+			if ($d->begin_date) $node->field_date_start[$node->language][0]['value'] = (string)$d->begin_date;
+			if ($d->end_date) $node->field_date_end[$node->language][0]['value'] = (string)$d->end_date;
+			$node = node_submit($node);
+//			print_r($node);
+			node_save($node);
+
+		}
+	}
+}
+
+get_files();
+parse_xmls();
+import_nodes();
+
+$user = $original_user;
+?>

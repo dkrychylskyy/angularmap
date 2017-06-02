@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.PRL.157.000000.10</dc:identifier>
+<dc:identifier2>32.HPA.32160.54096</dc:identifier2>
+<dc:creator>0</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>ROULOTTES D'ENCAZEAUX</dc:title>
+<dc:description>Location : 2 roulottes</dc:description>
+<tif:ControlledVocabulary code="02.01.06.01.03">Parc résidentiel de loisir</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.06.01.903">Insolite</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.03">Informations complètes (Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.05">Publication web OT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.01">Le petit d'artagnan©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.02">Gersfriendly©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.12">Manuel de ventes</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.15">Tendance (GersFriendly)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.102.10">OT Gascogne Toulousaine</tif:ControlledVocabulary>
+<tif:Classification code="02.01.06">Hôtellerie de plein air</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.01">Le petit d'artagnan©</tif:Classification>
+<tif:Classification code="02.100.02">Gersfriendly©</tif:Classification>
+<tif:Classification code="02.100.12">Manuel de ventes</tif:Classification>
+<tif:Classification code="02.100.15">Tendance (GersFriendly)</tif:Classification>
+<tif:Classification code="02.102.10">OT Gascogne Toulousaine</tif:Classification>
+<dcterms:created>2009-12-01</dcterms:created>
+<dcterms:modified>2016-09-20</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1379023200</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr"><tif:RaisonSociale>ROULOTTES D'ENCAZEAUX</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>Christine</tif:Prenom>
+<tif:Nom>LAPEYRE</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@lesroulottesdencazeaux.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>pascal.fresquet@orange.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr"><tif:RaisonSociale>ROULOTTES D'ENCAZEAUX</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Paguère d'Encazeaux</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.02" xml:lang="fr">Madame</tif:Civilite>
+<tif:Prenom>Christine</tif:Prenom>
+<tif:Nom>LAPEYRE</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>ROULOTTES D'ENCAZEAUX</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse>
+
+<tif:Adr3>Paguère d'Encazeaux</tif:Adr3>
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.901" libelle="Facebook (URL)" xml:lang="fr"><tif:Coord>https://www.facebook.com/roulottesdencazeaux?filter=3</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 21 15</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.900" libelle="Tél. portable" xml:lang="fr"><tif:Coord>+33 (0)6 65 57 52 73</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@lesroulottesdencazeaux.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.lesroulottesdencazeaux.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr"><tif:RaisonSociale>ROULOTTES D'ENCAZEAUX</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>Paguère d&amp;#8217;Encazeaux</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.01" xml:lang="fr">Mademoiselle</tif:Civilite>
+<tif:Prenom>Christine</tif:Prenom>
+<tif:Nom>LAPEYRE</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@lesroulottesdencazeaux.com</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.33" libelle="Réservation/Paiement en ligne" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://lesroulottesdencazeaux.com/p13-reservations.html</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+<tif:SIRET>43141778100025</tif:SIRET>
+<tif:APE_NAF>6820</tif:APE_NAF>
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024597.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#16</tif:ObservationMultimedia>
+
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0047650.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#11</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024591.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#9</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024594.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#12</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024596.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024598.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#15</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0013421.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024590.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#8</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024593.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0047651.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024589.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#14</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0013422.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#10</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024592.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#7</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024595.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024588.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#13</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0031296.jpg</URL>
+<tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Roulottes d'Encazeaux/C. Lapeyre</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#6</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.04.01.900" libelle="PRL" xml:lang="fr"><tif:Classement type="06.04.01.900.07" xml:lang="fr">Non Classé</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.03.01.03" libelle="Gîtes de France" xml:lang="fr"><tif:Classement type="06.03.01.03.03" xml:lang="fr">3 épis</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.02.01.904" libelle="Roulottes de Campagne" xml:lang="fr">
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.02" libelle="Fermé" xml:lang="fr">
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.045061</tif:Longitude>
+<tif:Latitude>43.624963 </tif:Latitude>
+<tif:Altitude>175</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+<tif:Environnements><tif:DetailEnvironnement type="08.02.03.01" libelle="A la campagne" xml:lang="fr"><tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">4.00</tif:Distance>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:ObservationDetailEnvironnement xml:lang="fr">De Toulouse, rester sur la 2x2 voies jusqu'à sa fin. Au rond point prendre à droite direction Clermont.Au rond point suivant à gauche direction Clermont. Au rond point suivant en faire le tour et prendre à droite le cvo n°16 d'Encazeaux. Les roulottes sont à 2 kms.</tif:ObservationDetailEnvironnement>
+</tif:DetailEnvironnement>
+</tif:Environnements>
+<tif:Cartes><tif:DetailCarte type="08.02.01.02" libelle="Michelin" xml:lang="fr"><tif:Numero>336</tif:Numero>
+
+
+</tif:DetailCarte>
+<tif:DetailCarte type="08.02.01.01" libelle="IGN" xml:lang="fr"><tif:Numero>1943E</tif:Numero>
+
+
+</tif:DetailCarte>
+</tif:Cartes>
+<tif:Acces><tif:DetailAcces type="08.02.06.03" libelle="Gare Ferroviaire" xml:lang="fr"><tif:Nom xml:lang="fr">L'ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">5.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.06" libelle="Gare Routière" xml:lang="fr"><tif:Nom xml:lang="fr">L'ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">5.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE/BLAGNAC</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">35.00</tif:Distance>
+
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+<tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr"><tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr"><tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr"><tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires>
+<tif:HoraireFin>23:00</tif:HoraireFin>
+</tif:Horaires>
+<tif:Horaires><tif:HoraireDebut>08:00</tif:HoraireDebut>
+
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr"><tif:DetailClient type="10.02.26" libelle="Tout public" xml:lang="fr"><tif:Nom>ROULOTTES D'ENCAZEAUX</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>1</tif:NbPersMin>
+<tif:NbPersMax>5</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+<tif:DetailClienteles type="10.01.01" libelle="Individuels" xml:lang="fr">
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.08</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.05</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.01" libelle="Centrale" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+<tif:ObservationModeReservation xml:lang="fr">booking, loisirs accueil, les roulottes de campagne.</tif:ObservationModeReservation>
+</tif:DetailModeReservation>
+<tif:DetailModeReservation type="12.01.900" libelle="En ligne" xml:lang="fr"><tif:Obligatoire>N</tif:Obligatoire>
+<tif:Contacts>602886</tif:Contacts>
+
+</tif:DetailModeReservation>
+<tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+<tif:ObservationModeReservation xml:lang="fr">téléphone, e.mail, via site internet
+Paiement en ligne.</tif:ObservationModeReservation>
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.04" libelle="Carte bleue" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.07" libelle="Cartes de paiement" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.11" libelle="Chèques Vacances" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.18" libelle="Virements" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.48" libelle="Location" xml:lang="fr"><tif:Nom xml:lang="fr">Roulotte 4/6 pers./semaine</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>450.00</tif:TarifMin>
+<tif:TarifMax>780.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.56" libelle="Tarif de base" xml:lang="fr"><tif:Nom xml:lang="fr">emplacement 2 personnes </tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>85.00</tif:TarifMin>
+<tif:TarifMax>130.00</tif:TarifMax>
+<tif:TarifMode type="13.03.02" xml:lang="fr">Abonnement / Forfait</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+<tif:DescriptionTarif xml:lang="fr">Le prix comprend : la location d'une roulotte, les lits sont fait, le linge de toilette garni.
+Les charges sont comprises : eau, électricité, chauffage, nettoyage.
+Pas de taxe de séjour ni de frais de dossier.</tif:DescriptionTarif>
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.02" libelle="Capacité Globale" xml:lang="fr">
+<tif:Superficie unite="01.03.04.01" libelle="mètre carré" classee="N" xml:lang="fr">21.00</tif:Superficie>
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.04" libelle="Emplacements" xml:lang="fr"><tif:Capacite unite="01.03.01.08" libelle="Emplacement" classee="N" xml:lang="fr">2</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+<tif:CapacitesPrestations><tif:DetailCapacitePrestation type="14.02.06" libelle="Emplacements loués à l'année" xml:lang="fr"><tif:Capacite unite="01.03.01.08" libelle="Emplacement" classee="N" xml:lang="fr">2</tif:Capacite>
+
+
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.14" libelle="Location" xml:lang="fr"><tif:Capacite unite="01.03.01.16" libelle="Place" classee="N" xml:lang="fr">2</tif:Capacite>
+
+
+</tif:DetailCapacitePrestation>
+</tif:CapacitesPrestations>
+<tif:CapacitesUnites><tif:DetailCapaciteUnite type="14.03.02.19" libelle="Gîte Rural" xml:lang="fr"><tif:TypeBatiment type="14.03.01.01" xml:lang="fr">Bungalows indépendants</tif:TypeBatiment>
+<tif:Nom xml:lang="fr">Classé tourisme</tif:Nom>
+
+
+<tif:SurfaceMoyenne unite="01.03.04.01">0.00</tif:SurfaceMoyenne>
+<tif:SurfaceMini unite="01.03.04.01">0.00</tif:SurfaceMini>
+<tif:SurfaceMaxi unite="01.03.04.01">0.00</tif:SurfaceMaxi>
+<tif:NbUnites>2</tif:NbUnites>
+
+</tif:DetailCapaciteUnite>
+<tif:DetailCapaciteUnite type="14.03.02.26" libelle="Salon" xml:lang="fr"><tif:TypeBatiment type="14.03.01.01" xml:lang="fr">Bungalows indépendants</tif:TypeBatiment>
+<tif:Nom xml:lang="fr">Roulottes</tif:Nom>
+
+
+<tif:SurfaceMoyenne unite="01.03.04.01">0.00</tif:SurfaceMoyenne>
+<tif:SurfaceMini unite="01.03.04.01">0.00</tif:SurfaceMini>
+<tif:SurfaceMaxi unite="01.03.04.01">0.00</tif:SurfaceMaxi>
+<tif:NbUnites>2</tif:NbUnites>
+
+</tif:DetailCapaciteUnite>
+</tif:CapacitesUnites>
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.20" xml:lang="fr">Douches chaudes</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.01" xml:lang="fr">Accès Internet</tif:Prestation>
+<tif:Nom lang="">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.41" xml:lang="fr">Sanitaires chauffés</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.26" xml:lang="fr">Lavabos eau chaude</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.52" xml:lang="fr">Jeux pour enfants</tif:Prestation>
+<tif:Nom lang="">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.05" xml:lang="fr">Aire de jeux</tif:Prestation>
+<tif:Nom lang="">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.70" xml:lang="fr">Piscine</tif:Prestation>
+<tif:Nom lang="">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.14" xml:lang="fr">Barbecue</tif:Prestation>
+<tif:Nom lang="">ROULOTTES D'ENCAZEAUX</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.62" xml:lang="fr">Ombrage partiel</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.118" xml:lang="fr">Terrain clos</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.02" libelle="Activités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.02.41" xml:lang="fr">Sentier de randonnée</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.02.64" xml:lang="fr">Vélo</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.02.38" xml:lang="fr">Produits fermiers</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.02.32" xml:lang="fr">Pétanque</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.909" xml:lang="fr">Location de Roulottes</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.01" xml:lang="fr">Accueil nuit</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.100.01" libelle="Le petit d'artagnan" lang="FR">En pleine nature gersoise, loin du bruit et de la pollution urbaine, les Roulottes d&amp;#8217;Encazeaux vous proposent une escapade dans une roulotte entièrement équipée et pouvant accueillir jusqu'à 5 personnes. Vous trouverez sur place tout le confort nécessaire avec un coin cuisine (frigo avec freezer, 2 plaques électriques, petit électroménager: micro-ondes, bouilloire, cafetière, grille-pain), et la vaisselle). A l'extérieur de votre roulotte, une table avec bancs, parasol, transats et barbecue vous permettront de profiter pleinement des plaisirs de la nature.
+Christine et Pascal vous recevront en toute convivialité sur leur exploitation agricole. Ils seront vous conseiller sur les visites et manifestations à ne pas manquer durant votre séjour. 
+
+Le petit + : piscine privée, portique, jeux de société et livres, location de vélos. Possibilité également de profiter des loisirs proposés par la Base de l'Isle-Jourdain (à 3 kilomètres) avec ses nombreux jeux, terrains de tennis, mini-golf et son impressionnant téléski nautique sur une partie du lac!
+
+
+
+</tif:Description>
+<tif:Description type="16.02.902" libelle="Descriptif portrait" lang="FR">
+
+
+
+
+
+
+
+
+</tif:Description>
+<tif:Description type="16.100.13" libelle="Manuel de ventes" lang="FR">En pleine nature gersoise, loin du bruit et de la pollution urbaine, le long d'une haie champêtre, découvrez deux hébergements insolites: &quot;les Roulottes d&amp;#8217;Encazeaux&quot;. En petit groupe, offrez-vous une escapade dans des roulottes entièrement équipées et pouvant accueillir jusqu'à 5 personnes.
+Vous trouverez sur place tout le confort nécessaire avec un coin cuisine équipé. &amp;#8232;
+
+&amp;#8232;Christine et Pascal vous recevront en toute convivialité sur leur exploitation agricole à l'Isle-Jourdain. Ils seront vous conseiller sur les visites et manifestations à ne pas manquer durant votre séjour.
+
+Egalement à votre disposition : piscine privée, location de vélos pour découvrir les petites randonnées des environs ou le chemin vers St-Jacques de Compostelle et à proximité, base de loisirs avec différents jeux dont un impressionnant téléski nautique sur une partie du lac!</tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">À seulement 30mn de Toulouse, en pleine nature gersoise, loin du bruit et de la pollution urbaine, les Roulottes d&amp;#8217;Encazeaux vous proposent une escapade dans une roulotte entièrement équipée pouvant accueillir jusqu'à 5 personnes. 
+Implantées le long d&amp;#8217;une haie champêtre, vous trouverez sur place tout le confort nécessaire avec coin cuisine (frigo, plaques électriques, micro-ondes, bouilloire, cafetière, grille-pain, et vaisselle). A l'extérieur de votre roulotte, une table avec bancs, parasol, transats et barbecue vous permettront de profiter pleinement des plaisirs du farniente et de la nature. Sans oublier une piscine, un portique pour enfant et une location de vélos pour découvrir les petites randonnées des environs et le chemin vers Saint Jacques de Compostelle.
+Les propriétaires, Christine et Pascal vous recevront en toute convivialité sur leur exploitation agricole pour vous conseiller les visites et manifestations à ne pas manquer durant votre séjour. 
+La base de loisirs de l'Isle-Jourdain, à 3km seulement, propose de nombreux jeux, terrains de tennis, mini-golf et un impressionnant téléski nautique sur une partie du lac.</tif:Description>
+<tif:Description type="16.100.02" libelle="Gersfriendly" lang="FR">En pleine nature gersoise, loin du bruit et de la pollution urbaine, le long d'une haie champêtre, les Roulottes d&amp;#8217;Encazeaux vous proposent une escapade dans une roulotte entièrement équipée et pouvant accueillir jusqu'à 5 personnes.
+Vous trouverez sur place tout le confort nécessaire avec un coin cuisine équipé. &amp;#8232;A l'extérieur de votre roulotte, une table avec bancs, parasol, transats et barbecue vous permettront de profiter pleinement des plaisirs de la nature.
+
+&amp;#8232;Christine et Pascal vous recevront en toute convivialité sur leur exploitation agricole à l'Isle-Jourdain. Ils seront vous conseiller sur les visites et manifestations à ne pas manquer durant votre séjour.
+
+Egalement à votre disposition : piscine privée et location de vélos pour découvrir les petites randonnées des environs et le chemin vers St-Jacques de Compostelle pour tous les amateurs de marche...
+
+&amp;#8232;Possibilité également de profiter des loisirs proposés par la base de loisirs de l'Isle-Jourdain (à 3 kilomètres) avec ses nombreux jeux, terrains de tennis et son impressionnant téléski nautique sur une partie du lac!</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.02.900" libelle="Editions papier CDTL" lang="FR">Nos 2 roulottes sont implantées dans une prairie le long d'une haie champêtre. Aux portes de la Gascogne, vous trouverez confort et calme, détente et gastronomie. Un accueil personnalisé vous sera réservé pour vous faire découvrir toutes les richesses du Gers.</tif:Description>
+<tif:Description type="16.100.01" libelle="Le petit d'artagnan" lang="FR">À chaque moment de l'année, les Roulottes d'Encazeaux vous proposent des idées de séjours insolites en famille, &quot;façon bohème&quot;. Situées en pleine nature gersoise, ces roulottes sont entièrement équipées et peuvent accueillir jusqu'à 5 personnes. Christine et Pascal vous recevront en toute convivialité sur leur exploitation agricole et vous conseilleront sur les visites et manifestations à ne pas manquer durant votre séjour. A votre disposition : piscine privée, portique et location de vélos. Et à 3 km, base de loisirs avec jeux, tennis, mini-golf et téléski nautique. 
+
+Le petit + : Chèques vacances</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>

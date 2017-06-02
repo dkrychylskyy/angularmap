@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<tif:OI xmlns:tif="http://www.tourinfrance.net/Tourinfrance3/" xmlns:tif22="http://www.tourinfrance.net/tourinfrance22/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:agit="http://www.cantico.fr/AGIT"><tif:DublinCore><dc:identifier>32.HR.157.022564.10</dc:identifier>
+<dc:identifier2>32.HOT.32160.52721</dc:identifier2>
+<dc:creator>CDT</dc:creator>
+<dc:publisher>Comité Départemental du Tourisme du Gers en Gascogne</dc:publisher>
+<dc:title>HÔTEL L'ÉCHAPPÉE BELLE</dc:title>
+
+<tif:ControlledVocabulary code="02.01.05.01.02">Hôtels restaurant</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.01">Publication web CDT</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.01.100.03">Informations complètes (Répondant)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.02">Gersfriendly©</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.09">Hôtels</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.10">Accessibilité</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.100.15">Tendance (GersFriendly)</tif:ControlledVocabulary>
+<tif:ControlledVocabulary code="02.101.24">Hébergers</tif:ControlledVocabulary>
+<tif:Classification code="02.01.05">Hôtellerie</tif:Classification>
+<tif:Classification code="02.01.100">Mode de diffusion</tif:Classification>
+<tif:Classification code="02.100.02">Gersfriendly©</tif:Classification>
+<tif:Classification code="02.100.09">Hôtels</tif:Classification>
+<tif:Classification code="02.100.10">Accessibilité</tif:Classification>
+<tif:Classification code="02.100.15">Tendance (GersFriendly)</tif:Classification>
+<tif:Classification code="02.101.24">Hébergers</tif:Classification>
+<dcterms:created>2011-07-25</dcterms:created>
+<dcterms:modified>2017-02-28</dcterms:modified>
+<dcterms:valid>2020-12-31</dcterms:valid>
+<dcterms:available>2013-01-01</dcterms:available>
+</tif:DublinCore>
+
+<sy:Update><updatePeriod>yearly</updatePeriod>
+<updateFrequency>1</updateFrequency>
+<updateBase>1378764000</updateBase>
+</sy:Update>
+
+<tif:Contacts><tif:DetailContact type="04.03.17" libelle="Gestionnaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>2 Place Gambetta</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Julien</tif:Prenom>
+<tif:Nom>VINCENDEAU</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.05" libelle="CDT" xml:lang="fr"><tif:RaisonSociale>HÔTEL L'ÉCHAPPÉE BELLE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>2 place Gambetta</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.echappee-belle.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@echappee-belle.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 50 00</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.02" libelle="Télécopieur /fax" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 50 09</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.14" libelle="Etablissement" xml:lang="fr"><tif:RaisonSociale>HOTEL L'ECHAPPEE BELLE</tif:RaisonSociale>
+
+<tif:Adresses><tif:DetailAdresse><tif:Adr1>2 Place Gambetta</tif:Adr1>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 50 00</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.901" libelle="Facebook (URL)" xml:lang="fr"><tif:Coord>https://www.facebook.com/pages/lechappee-belle/236165129744953</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.900" libelle="Tél. portable" xml:lang="fr"><tif:Coord>+33 (0)7 60 73 02 08</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.echappee-belle.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+<tif:DetailMoyenCom type="04.02.04" libelle="Mél" xml:lang="fr"><tif:Coord>contact@echappee-belle.fr</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.08" libelle="Commercial" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>Julien</tif:Prenom>
+<tif:Nom>VINCENDEAU</tif:Nom>
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.01" libelle="Téléphone" xml:lang="fr"><tif:Coord>+33 (0)5 62 07 50 00</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.30" libelle="Propriétaire" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+<tif:CodePostal>32600</tif:CodePostal>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr"><tif:Civilite type="04.01.03" xml:lang="fr">Monsieur</tif:Civilite>
+<tif:Prenom>François Xavier</tif:Prenom>
+<tif:Nom>DESGRIPPES</tif:Nom>
+
+
+
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+<tif:DetailContact type="04.03.33" libelle="Réservation/Paiement en ligne" xml:lang="fr">
+
+<tif:Adresses><tif:DetailAdresse>
+
+
+
+
+
+
+<tif:Personnes><tif:DetailPersonne type="" libelle="" xml:lang="fr">
+
+
+
+
+<tif:MoyensCommunications><tif:DetailMoyenCom type="04.02.05" libelle="Site web (URL)" xml:lang="fr"><tif:Coord>http://www.secure-hotel-booking.com/L-Echappee-Belle/2U75/dateselection?lang=FR&amp;sid=11419d60-2e5d-42b8-bfea-ea7108e2661e</tif:Coord>
+
+</tif:DetailMoyenCom>
+</tif:MoyensCommunications>
+</tif:DetailPersonne>
+</tif:Personnes>
+</tif:DetailAdresse>
+</tif:Adresses>
+</tif:DetailContact>
+</tif:Contacts>
+<tif:InformationsLegales><tif:ModeGestion type="05.01.02" xml:lang="fr">Privé</tif:ModeGestion>
+<tif:SIRET>52452354500019</tif:SIRET>
+<tif:APE_NAF>5510Z</tif:APE_NAF>
+
+
+</tif:InformationsLegales>
+
+<tif:Multimedia><tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0020168.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel l'Echappée Belle</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#8</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0024574.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>ollection Tourisme Gers/Hôtel l'Echapée Belle/C. Desgrippes</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#3</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0020555.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#7</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0076157.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle/Valérie Servant</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#4</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0076158.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle/Valérie Servant</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#11</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0020172.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel l'Echappée Belle</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#12</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0020554.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#6</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0020171.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel l'Echappée Belle</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#9</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0076161.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle/Valérie Servant</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#2</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0020170.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel l'Echappée Belle</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#10</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0076160.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle/Valérie Servant</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#1</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+<tif:DetailMultimedia type="03.01.01" libelle="Image" xml:lang="fr"><URL>http://medias.cdtl32.com/CDT32_0076159.jpg</URL>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:TailleRessource unite="ko">0</tif:TailleRessource>
+<tif:Largeur unite="px">0</tif:Largeur>
+<tif:Hauteur unite="px">0</tif:Hauteur>
+<tif:Duree unite="01.03.03.01">0</tif:Duree>
+<tif:TypeMime>image/jpeg</tif:TypeMime>
+<tif:Copyright>Collection Tourisme Gers/Hôtel L'Echappée Belle/Valérie Servant</tif:Copyright>
+<tif:ObservationMultimedia xml:lang="fr">#5</tif:ObservationMultimedia>
+<agit:Categories><agit:Categorie xml:lang="fr">Site CDT</agit:Categorie>
+</agit:Categories>
+</tif:DetailMultimedia>
+</tif:Multimedia>
+<tif:Classements><tif:DetailClassement type="06.05" libelle="Tourisme et handicap" xml:lang="fr"><tif:Classement type="06.05.01" xml:lang="fr">Handicap auditif</tif:Classement>
+<tif:DateClassement>2013-02-21</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.05" libelle="Tourisme et handicap" xml:lang="fr"><tif:Classement type="06.05.02" xml:lang="fr">Handicap mental</tif:Classement>
+<tif:DateClassement>2013-02-21</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.04.01.03" libelle="Hôtels" xml:lang="fr"><tif:Classement type="06.04.01.03.09" xml:lang="fr">Non Classé</tif:Classement>
+<tif:DateClassement>2012-02-27</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.05" libelle="Tourisme et handicap" xml:lang="fr"><tif:Classement type="06.05.03" xml:lang="fr">Handicap moteur</tif:Classement>
+<tif:DateClassement>2013-02-21</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+<tif:DetailClassement type="06.05" libelle="Tourisme et handicap" xml:lang="fr"><tif:Classement type="06.05.906" xml:lang="fr">Auditif, mental, moteur</tif:Classement>
+<tif:DateClassement>1970-01-01</tif:DateClassement>
+
+
+
+</tif:DetailClassement>
+</tif:Classements>
+<tif:PrestationsLiees><tif:DetailPrestationLiee identifier="32.PDT.15.033662.10" type="07.01.01" xml:lang="fr">ECHAPPÉE BELLE AU PAYS DES SAVEURS (2 jours/1 nuit)</tif:DetailPrestationLiee>
+</tif:PrestationsLiees>
+<tif:Geolocalisations><tif:DetailGeolocalisation type="08.01.03" libelle="Point" xml:lang="fr"><tif:Zone type="08.02.07.01" libelle="Ouvert" xml:lang="fr"><tif:Nom>08.02.04.17</tif:Nom>
+<tif:Points><tif:DetailPoint type="08.02.05.11" libelle="Principal" xml:lang="fr"><tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+<tif:Coordonnees><tif:DetailCoordonnees type="08.02.02.03" libelle="Géographiques (UTM compatible avec GPS)" xml:lang="fr"><tif:Longitude>1.082099</tif:Longitude>
+<tif:Latitude>43.614469</tif:Latitude>
+<tif:Altitude>0</tif:Altitude>
+</tif:DetailCoordonnees>
+</tif:Coordonnees>
+
+
+<tif:Acces><tif:DetailAcces type="08.02.06.08" libelle="Route" xml:lang="fr"><tif:Nom xml:lang="fr">RN 124</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.01" libelle="Aéroport/Aérodrome" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE/BLAGNAC</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">30.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.02" libelle="Autoroute" xml:lang="fr"><tif:Nom xml:lang="fr">TOULOUSE</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">30.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.03" libelle="Gare Ferroviaire" xml:lang="fr"><tif:Nom xml:lang="fr">L'ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+
+</tif:DetailAcces>
+<tif:DetailAcces type="08.02.06.06" libelle="Gare Routière" xml:lang="fr"><tif:Nom xml:lang="fr">L'ISLE JOURDAIN</tif:Nom>
+<tif:Distance unite="01.03.02.01" libelle="km" xml:lang="fr">1.00</tif:Distance>
+
+</tif:DetailAcces>
+</tif:Acces>
+</tif:DetailPoint>
+</tif:Points>
+</tif:Zone>
+
+</tif:DetailGeolocalisation>
+</tif:Geolocalisations>
+<tif:Periodes><tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">L'hôtel est ouvert toute l'année, accueil et réception 24h/24.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr"><tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+<tif:Horaires><tif:HoraireDebut>00:00</tif:HoraireDebut>
+<tif:HoraireFin>24:00</tif:HoraireFin>
+</tif:Horaires>
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:Dates><tif:DetailDates><tif:DateDebut>2013-01-01</tif:DateDebut>
+<tif:DateFin>2013-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:DetailPeriode type="09.01.06" libelle="Ouverture" xml:lang="fr"><tif:Nom xml:lang="fr">L'HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+<tif:ObservationDetailPeriode xml:lang="fr">L'hôtel est ouvert toute l'année, accueil et réception 24h/24.</tif:ObservationDetailPeriode>
+<tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+
+<tif:Jours><tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.07" libelle="Samedi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.06" libelle="Vendredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.05" libelle="Jeudi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.04" libelle="Mercredi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.03" libelle="Mardi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.02" libelle="Lundi" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+<tif:DetailJours type="09.03.02" libelle="Ouverture" xml:lang="fr"><tif:Jour lib_jour="09.02.01" libelle="Dimanche" xml:lang="fr">
+
+
+</tif:Jour>
+
+</tif:DetailJours>
+</tif:Jours>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+</tif:Periodes>
+<tif:Clienteles><tif:DetailClienteles type="10.01.02" libelle="Groupes" xml:lang="fr"><tif:DetailClient type="10.02.26" libelle="Tout public" xml:lang="fr"><tif:Nom>HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+<tif:GroupeRef>N</tif:GroupeRef>
+<tif:NbPersMin>100</tif:NbPersMin>
+<tif:NbPersMax>1</tif:NbPersMax>
+<tif:AgeMin>0</tif:AgeMin>
+<tif:AgeMax>0</tif:AgeMax>
+</tif:DetailClient>
+
+</tif:DetailClienteles>
+<tif:DetailClienteles type="10.01.01" libelle="Individuels" xml:lang="fr">
+</tif:DetailClienteles>
+</tif:Clienteles>
+<tif:Langues><tif:Usage type="11.01.01" libelle="Accueil" xml:lang="fr"><tif:Langue xml:lang="fr">Anglais</tif:Langue>
+<tif:Langue xml:lang="fr">Espagnol</tif:Langue>
+
+
+
+
+</tif:Usage>
+</tif:Langues>
+<tif:Guides><tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.10</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.12" libelle="Michelin" xml:lang="fr">
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.04</tif:GuideValue>
+</tif:Guide>
+<tif:Guide type="06.03.06.25" libelle="Editions /supports départementaux" xml:lang="fr"><tif:GuideValue xml:lang="fr">06.03.06.25.01</tif:GuideValue>
+</tif:Guide>
+</tif:Guides>
+<tif:ModesReservations><tif:DetailModeReservation type="12.01.900" libelle="En ligne" xml:lang="fr"><tif:Obligatoire>N</tif:Obligatoire>
+
+
+</tif:DetailModeReservation>
+<tif:DetailModeReservation type="12.01.02" libelle="Directe" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+<tif:ObservationModeReservation xml:lang="fr">téléphone, e.mail, via site internet</tif:ObservationModeReservation>
+</tif:DetailModeReservation>
+<tif:DetailModeReservation type="12.01.01" libelle="Centrale" xml:lang="fr"><tif:Obligatoire>O</tif:Obligatoire>
+
+<tif:ObservationModeReservation xml:lang="fr">Booking,expédia,HRS, etc...</tif:ObservationModeReservation>
+</tif:DetailModeReservation>
+</tif:ModesReservations>
+<tif:Tarifs><tif:ModesPaiement><tif:ModePaiement type="13.02.04" libelle="Carte bleue" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.19" libelle="Visa" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.08" libelle="Chèque" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.11" libelle="Chèques Vacances" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.14" libelle="Espèces" xml:lang="fr"></tif:ModePaiement>
+<tif:ModePaiement type="13.02.07" libelle="Cartes de paiement" xml:lang="fr"></tif:ModePaiement>
+</tif:ModesPaiement>
+
+<tif:DetailTarifs><tif:DetailTarif type="13.04.01.33" libelle="Forfait séminaire twin" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>130.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.03.05" libelle="Demi-pension" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>30.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.50" libelle="Logement seul base chambre double" xml:lang="fr"><tif:Nom xml:lang="fr">de 88 € à 128 €</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.50" libelle="Logement seul base chambre double" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>85.00</tif:TarifMin>
+<tif:TarifMax>165.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.32" libelle="Forfait séminaire single" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>170.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.30" libelle="Forfait séminaire chambre double" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>170.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.50" libelle="Logement seul base chambre double" xml:lang="fr"><tif:Nom xml:lang="fr">Chambre Confort (1 à 2 personnes)</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>88.00</tif:TarifMin>
+<tif:TarifMax>98.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.03.02" libelle="Petit-déjeuner" xml:lang="fr"><tif:Nom xml:lang="fr">de 12 € à 16 €</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2016-01-01</tif:DateDebut>
+<tif:DateFin>2016-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.03.02" libelle="Petit-déjeuner" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>12.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.03.04" libelle="Pension complète" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>50.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.31" libelle="Forfait séminaire sans hébergement" xml:lang="fr">
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2014-01-01</tif:DateDebut>
+<tif:DateFin>2014-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>56.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.01.50" libelle="Logement seul base chambre double" xml:lang="fr"><tif:Nom xml:lang="fr">Chambre Supérieure (1 à 3 personnes)</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>O</tif:TarifRef>
+<tif:TarifStandard>0.00</tif:TarifStandard>
+<tif:TarifMin>100.00</tif:TarifMin>
+<tif:TarifMax>128.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>0.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.03.03" libelle="Prix par chambre" xml:lang="fr"><tif:Nom xml:lang="fr">Juniors Suites (1 à 3 personnes)</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>168.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.01" xml:lang="fr">A la journée</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>168.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+<tif:DetailTarif type="13.04.03.02" libelle="Petit-déjeuner" xml:lang="fr"><tif:Nom xml:lang="fr">Patit déjeuner continental</tif:Nom>
+<tif:DetailPeriode xml:lang="fr"><tif:Dates><tif:DetailDates><tif:DateDebut>2017-01-01</tif:DateDebut>
+<tif:DateFin>2017-12-31</tif:DateFin>
+</tif:DetailDates>
+</tif:Dates>
+</tif:DetailPeriode>
+<tif:TarifRef>N</tif:TarifRef>
+<tif:TarifStandard>12.00</tif:TarifStandard>
+<tif:TarifMin>0.00</tif:TarifMin>
+<tif:TarifMax>0.00</tif:TarifMax>
+<tif:TarifMode type="13.03.03" xml:lang="fr">Par personne</tif:TarifMode>
+<tif:TarifDevise type="13.01.01" xml:lang="fr">Euro</tif:TarifDevise>
+<tif:TarifTVA taux="0.0"></tif:TarifTVA>
+<tif:TarifTranche>12.00</tif:TarifTranche>
+<tif:MontantPourcent type="0" xml:lang="fr"></tif:MontantPourcent>
+
+</tif:DetailTarif>
+</tif:DetailTarifs>
+</tif:Tarifs>
+<tif:Capacites><tif:CapacitesGlobales type="14.01.07" libelle="Personnes" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="O" xml:lang="fr">60</tif:Capacite>
+
+</tif:CapacitesGlobales>
+<tif:CapacitesGlobales type="14.01.03" libelle="Chambres" xml:lang="fr"><tif:Capacite unite="01.03.01.06" libelle="Chambre" classee="O" xml:lang="fr">27</tif:Capacite>
+
+</tif:CapacitesGlobales>
+
+<tif:CapacitesPrestations><tif:DetailCapacitePrestation type="14.02.11" libelle="Hébergement" xml:lang="fr"><tif:Capacite unite="01.03.01.06" libelle="Chambre" classee="N" xml:lang="fr">2</tif:Capacite>
+
+<tif:DescriptionCapacitePrestation xml:lang="fr">Suites</tif:DescriptionCapacitePrestation>
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.26" libelle="Salle de réception" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">150</tif:Capacite>
+
+<tif:DescriptionCapacitePrestation xml:lang="fr">Cocktail</tif:DescriptionCapacitePrestation>
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.26" libelle="Salle de réception" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">100</tif:Capacite>
+
+<tif:DescriptionCapacitePrestation xml:lang="fr">Buffet</tif:DescriptionCapacitePrestation>
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.11" libelle="Hébergement" xml:lang="fr"><tif:Capacite unite="01.03.01.06" libelle="Chambre" classee="N" xml:lang="fr">27</tif:Capacite>
+
+
+</tif:DetailCapacitePrestation>
+<tif:DetailCapacitePrestation type="14.02.04" libelle="Banquet" xml:lang="fr"><tif:Capacite unite="01.03.01.14" libelle="Personne" classee="N" xml:lang="fr">100</tif:Capacite>
+
+<tif:DescriptionCapacitePrestation xml:lang="fr">Repas assis</tif:DescriptionCapacitePrestation>
+</tif:DetailCapacitePrestation>
+</tif:CapacitesPrestations>
+<tif:CapacitesUnites><tif:DetailCapaciteUnite type="14.03.02.32" libelle="Bâtiment" xml:lang="fr"><tif:TypeBatiment type="14.03.01.08" xml:lang="fr">Châteaux et demeures de prestige</tif:TypeBatiment>
+<tif:Nom xml:lang="fr">HOTEL L'ECHAPPEE BELLE</tif:Nom>
+
+<tif:Dispositions><tif:DetailDisposition type="14.03.03.03" libelle="En théâtre" xml:lang="fr"><tif:CapaciteMoyenne>60</tif:CapaciteMoyenne>
+<tif:CapaciteMini>0</tif:CapaciteMini>
+<tif:CapaciteMaxi>0</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+<tif:DetailDisposition type="14.03.03.01" libelle="En U" xml:lang="fr"><tif:CapaciteMoyenne>25</tif:CapaciteMoyenne>
+<tif:CapaciteMini>0</tif:CapaciteMini>
+<tif:CapaciteMaxi>0</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+<tif:DetailDisposition type="14.03.03.02" libelle="En conseil d'administration" xml:lang="fr"><tif:CapaciteMoyenne>0</tif:CapaciteMoyenne>
+<tif:CapaciteMini>35</tif:CapaciteMini>
+<tif:CapaciteMaxi>40</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+<tif:DetailDisposition type="14.03.03.04" libelle="En classe" xml:lang="fr"><tif:CapaciteMoyenne>0</tif:CapaciteMoyenne>
+<tif:CapaciteMini>35</tif:CapaciteMini>
+<tif:CapaciteMaxi>40</tif:CapaciteMaxi>
+</tif:DetailDisposition>
+</tif:Dispositions>
+<tif:SurfaceMoyenne unite="01.03.04.01">70.00</tif:SurfaceMoyenne>
+<tif:SurfaceMini unite="01.03.04.01">0.00</tif:SurfaceMini>
+<tif:SurfaceMaxi unite="01.03.04.01">0.00</tif:SurfaceMaxi>
+<tif:NbUnites>1</tif:NbUnites>
+
+</tif:DetailCapaciteUnite>
+<tif:DetailCapaciteUnite type="14.03.02.10" libelle="Chambre" xml:lang="fr"><tif:TypeBatiment type="14.03.01.08" xml:lang="fr">Châteaux et demeures de prestige</tif:TypeBatiment>
+<tif:Nom xml:lang="fr">Suite</tif:Nom>
+
+
+<tif:SurfaceMoyenne unite="01.03.04.01">0.00</tif:SurfaceMoyenne>
+<tif:SurfaceMini unite="01.03.04.01">0.00</tif:SurfaceMini>
+<tif:SurfaceMaxi unite="01.03.04.01">0.00</tif:SurfaceMaxi>
+<tif:NbUnites>2</tif:NbUnites>
+
+</tif:DetailCapaciteUnite>
+<tif:DetailCapaciteUnite type="14.03.02.10" libelle="Chambre" xml:lang="fr"><tif:TypeBatiment type="14.03.01.08" xml:lang="fr">Châteaux et demeures de prestige</tif:TypeBatiment>
+<tif:Nom xml:lang="fr">Chambre aménagé pour handicapé</tif:Nom>
+
+
+<tif:SurfaceMoyenne unite="01.03.04.01">0.00</tif:SurfaceMoyenne>
+<tif:SurfaceMini unite="01.03.04.01">0.00</tif:SurfaceMini>
+<tif:SurfaceMaxi unite="01.03.04.01">0.00</tif:SurfaceMaxi>
+<tif:NbUnites>2</tif:NbUnites>
+
+</tif:DetailCapaciteUnite>
+</tif:CapacitesUnites>
+</tif:Capacites>
+<tif:OffresPrestations><tif:DetailOffrePrestation type="15.01" libelle="Accessibilités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.01.01" xml:lang="fr">Mobilité réduite</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+<tif:NbPrest unite="Chambres ">2</tif:NbPrest>
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.06" libelle="Services" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.06.39" xml:lang="fr">Information</tif:Prestation>
+<tif:Nom lang="">Hall d'exposition</tif:Nom>
+
+<tif:NbPrest unite="personnes">70</tif:NbPrest>
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.94" xml:lang="fr">Vestiaire</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.78" xml:lang="fr">Réservation spectacles</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.14" xml:lang="fr">Bibliothèque</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.87" xml:lang="fr">Séminaire</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.81" xml:lang="fr">Restaurant</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.29" xml:lang="fr">Demi-pension</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.36" xml:lang="fr">Garderie</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.54" xml:lang="fr">Location de voiture</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.05" xml:lang="fr">Animaux acceptés</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.77" xml:lang="fr">Réservation excursions</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.39" xml:lang="fr">Information</tif:Prestation>
+<tif:Nom lang="">salle de réception</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.29" xml:lang="fr">Demi-pension</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>N</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32001">Aignan</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.59" xml:lang="fr">Massages</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.06.39" xml:lang="fr">Information</tif:Prestation>
+<tif:Nom lang="">Etape affaire</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.02" libelle="Activités" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.02.01" xml:lang="fr">Animation</tif:Prestation>
+<tif:Nom lang="">Soirées animations</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.03" libelle="Conforts" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.03.905" xml:lang="fr">Paper board</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.42" xml:lang="fr">Sèche cheveux</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.901" xml:lang="fr">Wifi</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.14" xml:lang="fr">Climatisation</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.900" xml:lang="fr">Chbres communicante</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.904" xml:lang="fr">Photocopieuse</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.906" xml:lang="fr">Ecran projection / salle de projection</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.01" xml:lang="fr">Accès Internet</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.08" xml:lang="fr">Canal+</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.07" xml:lang="fr">Câble / Satellite</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.52" xml:lang="fr">Télécopie</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.56" xml:lang="fr">Télévision</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.09" xml:lang="fr">Chambres non fumeur</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.03.53" xml:lang="fr">Téléphone</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+<tif:DetailOffrePrestation type="15.05" libelle="Equipements" xml:lang="fr"><tif:DetailPrestation><tif:Prestation type="15.05.64" xml:lang="fr">Parking</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.127" xml:lang="fr">Toilettes</tif:Prestation>
+<tif:Nom lang="">sur place</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.123" xml:lang="fr">Terrasse</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.105" xml:lang="fr">Salon</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.86" xml:lang="fr">Restaurant</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.99" xml:lang="fr">Salle de réunion</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>O</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.52" xml:lang="fr">Jeux pour enfants</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.12" xml:lang="fr">Bar</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+<tif:DetailPrestation><tif:Prestation type="15.05.07" xml:lang="fr">Ascenseur</tif:Prestation>
+<tif:Nom lang="">HÔTEL L'ÉCHAPPÉE BELLE</tif:Nom>
+
+
+<tif:Inclus>O</tif:Inclus>
+<tif:Payant>N</tif:Payant>
+
+<tif:Commune code="32160">L'Isle-Jourdain</tif:Commune>
+
+
+
+</tif:DetailPrestation>
+
+</tif:DetailOffrePrestation>
+</tif:OffresPrestations>
+<tif:DescriptionsComplementaires><tif:DetailDescriptionComplementaire type="16.01.04" libelle="Descriptif" xml:lang="fr"><tif:Description type="16.100.11" libelle="Accessibilité" lang="FR">Avec les Pyrénées pour horizon et aux portes de Toulouse, l'Hôtel***Restaurant L'Échappée Belle est idéalement situé au cœur de la campagne gersoise et de la cité médiévale de L'Isle-Jourdain, célèbre pour son Musée d'Art Campanaire.
+
+Les chambres de cet hôtel de charme, design et spacieuses, sont un clin d&amp;#8217;œil au 8ème art : la photographie.
+Deux sont adaptées aux personnes à mobilité réduite.
+Toutes sont climatisées, parfaitement insonorisées et équipées d&amp;#8217;une literie haut de gamme, d&amp;#8217;écran plats 32&amp;#8217;&amp;#8217;, des chaînes Canal Plus et d&amp;#8217;un accès Wifi gratuit.
+
+Sur place : restaurant, bar, salon de thé, salons de séminaires, patio et terrasse. </tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+<tif:DetailDescriptionComplementaire type="16.01.10" libelle="Descriptif HTML" xml:lang="fr"><tif:Description type="16.100.02" libelle="Gersfriendly" lang="FR">Situé au centre de l'Isle-Jourdain, porte d'entrée du Gers, proche de Toulouse, l'hôtel l'Echappée Belle est un nouvel hôtel de charme qui s'intègre parfaitement au coeur historique de la ville.
+
+Son architecture associe des façades d&amp;#8217;inspiration Art Déco avec des lignes plus libres et actuelles qui font de cet hôtel un établissement résolument contemporain et tendance, un lieu intime à la personnalité affirmée.
+
+L'espace intérieur, réception, restaurant, bar, salon de thé et salons de séminaires s&amp;#8217;agencent autour d&amp;#8217;un patio baigné de la douce lumière du Sud-Ouest.
+
+Les chambres sont lumineuses et spacieuses et offrent un confort feutré dans un style actuel et zen à la fois, mêlant esprit nature et design contemporain, avec vues uniques sur les toits de la ville et sur la campagne environnante.
+
+Le restaurant, brasserie chic et contemporain, dont la carte a été conçue par Bernard Bach, chef doublement étoilé du Puits Saint-Jacques à Pujaudran, vous fera découvrir une cuisine moderne et ouverte au monde, inventive et raffinée, exclusivement à base de produits frais.
+
+L'Échappée Belle est un lieu propice au repos et au travail ainsi qu'une halte gastronomique indispensable dans un cadre à l&amp;#8217;élégance intemporelle.</tif:Description>
+<tif:Description type="16.100.11" libelle="Accessibilité" lang="FR">Avec les Pyrénées pour horizon et aux portes de Toulouse, l'Hôtel***Restaurant L'Échappée Belle est idéalement situé au cœur de la campagne gersoise et de la cité médiévale de L'Isle-Jourdain, célèbre pour son Musée d'Art Campanaire.
+
+Les chambres de cet hôtel de charme, design et spacieuses, sont un clin d&amp;#8217;œil au 8ème art : la photographie.
+Deux sont adaptées aux personnes à mobilité réduite.
+Toutes sont climatisées, parfaitement insonorisées et équipées d&amp;#8217;une literie haut de gamme, d&amp;#8217;écran plats 32&amp;#8217;&amp;#8217;, des chaînes Canal Plus et d&amp;#8217;un accès Wifi gratuit.
+
+Sur place : restaurant, bar, salon de thé, salons de séminaires, patio et terrasse. </tif:Description>
+<tif:Description type="16.100.19" libelle="Hébergers" lang="FR">Aux portes du Gers, au cœur des premiers vallons, se niche L&amp;#8217;Isle Jourdain, tranquille cité gasconne. C&amp;#8217;est ici, sur une place aux arcades médiévales, qu&amp;#8217;a été récemment créé « L&amp;#8217;échappée belle », un hôtel 3 étoiles chic et trendy. Son architecture discrète et moderne aux couleurs claires se fond parfaitement avec les façades plus anciennes de la place Gambetta. Les courbes de ses balcons rappellent les douces collines du Gers. 
+A l&amp;#8217;intérieur, la décoration contemporaine mais chaleureuse vous transportera dans une ambiance de sérénité, de détente et de bien-être, en mêlant esprit nature, influences nordiques et quelques grands noms du design.
+Notre équipe vous accueillera à toute heure et à toute saison. Nous vous accompagnerons jusqu&amp;#8217;à l&amp;#8217;une de nos 27 chambres ou suites. Toutes différentes, elles sont conçues comme un cocon au confort douillet et vous invitent, par une immense photographie en tête de lit, à un peu plus d&amp;#8217;évasion.
+Du balcon ou de la terrasse, vous pourrez admirer les paysages vallonnés gersois ou profiter de magnifiques vues sur les toits de la ville.
+Au rez-de-chaussée, profitez d&amp;#8217;une pause gourmande dans notre restaurant labellisé « Tables du Gers » ou dans notre patio ombragé. Dans un espace lumineux et convivial, nous vous accueillons tous les jours et vous proposons une carte qui fait la part belle aux produits frais, locaux et de saison. 
+Notre équipe en salle se fera un plaisir de vous faire déguster vins régionaux et Armagnacs. 
+
+Randonnées à cheval, à pied ou en VTT, parcours de canoë kayak, téléski nautique et autres activités de plein air vous feront découvrir le meilleur du Gers.  
+Prenez le temps de profiter de l&amp;#8217;instant présent. Vivez le Gers et faites de votre séjour&amp;#8230; une échappée belle ! </tif:Description>
+<tif:Description type="16.02.08" libelle="Informations commerciales" lang="FR">Situé au centre de l'Isle-Jourdain, porte d'entrée du Gers, proche de Toulouse, l'hôtel l'Echappée Belle est un nouvel hôtel de charme qui s'intègre parfaitement au coeur historique de la ville.
+Son architecture associe des façades d&amp;#8217;inspiration Art Déco avec des lignes plus libres et actuelles qui font de cet hôtel un établissement résolument contemporain et tendance, un lieu intime à la personnalité affirmée.
+L'espace intérieur, réception, restaurant, bar, salon de thé et salons de séminaires s&amp;#8217;agencent autour d&amp;#8217;un patio baigné de la douce lumière du Sud-Ouest.
+Les chambres sont lumineuses et spacieuses  et offrent un confort feutré dans un style actuel et zen à la fois, mêlant esprit nature et design contemporain, avec vues uniques sur les toits de la ville et sur la campagne environnante.
+Le restaurant, brasserie chic et contemporain, dont la carte a été conçue par Bernard Bach, chef doublement étoilé du Puits Saint-Jacques à Pujaudran, vous fera découvrir une cuisine moderne et ouverte au monde, inventive et raffinée, exclusivement à base de produits frais.
+L'Échappée Belle est un lieu propice au repos et au travail ainsi qu'une halte gastronomique indispensable dans un cadre à l&amp;#8217;élégance intemporelle.</tif:Description>
+<tif:Description type="16.100.10" libelle="Hôtels" lang="FR">L&amp;#8217;hôtel L&amp;#8217;Échappée Belle est un nouvel hôtel de charme situé au coeur de L&amp;#8217;Isle Jourdain. Un lieu chic et intime à la personnalité affirmée, aux portes du Gers touristique et gastronomique.
+
+L&amp;#8217;architecture, signée par Hélène de Quelen et Fabienne Larcade, associe des façades d&amp;#8217;inspiration Art Déco avec des lignes plus libres et actuelles qui font de cet hôtel un établissement résolument contemporain et tendance. Réception, restaurant, bar, salon de thé et salons de séminaires s&amp;#8217;agencent autour d&amp;#8217;un patio baigné de la douce lumière du Sud-Ouest.
+
+Dans un style mêlant design et nature, l&amp;#8217;hôtel dispose de 27 chambres, dont 2 junior suites et plusieurs suites familiales. Lumineuses et spacieuses, les chambres ont chacune leur singularité et vous offrent des vues uniques sur les toits de la vieille ville et sur la campagne environnante.
+
+Le restaurant, brasserie chic et contemporaine, dont la carte a été conçue par Bernard Bach, chef doublement étoilé du Puits Saint Jacques à Pujaudran, vous fera découvrir une cuisine moderne et ouverte au monde. Sur les routes du Gers, en direction d&amp;#8217;Auch ou de Toulouse, ou encore sur le chemin de Saint Jacques de Compostelle, L'Échappée Belle est une halte gastronomique indispensable dans un cadre à l&amp;#8217;élégance intemporelle.
+
+
+Classement &quot;3 étoiles&quot; donné à titre indicatif (hôtel en cours de classement)</tif:Description>
+
+</tif:DetailDescriptionComplementaire>
+</tif:DescriptionsComplementaires>
+
+</tif:OI>
